@@ -1,0 +1,29 @@
+
+div {
+    text-align: center;
+    margin: 50px 0;
+}
+
+ol {
+    list-style: none;
+    text-decoration: none;
+    padding: 0;
+    margin-top: 50px;
+}
+
+li {
+    display: inline;
+    background-color: rgb(148, 165, 166);
+    padding: 1%;
+    border: 1px solid gray;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+li:hover {
+    background-color: rgb(96, 161, 164);
+}
