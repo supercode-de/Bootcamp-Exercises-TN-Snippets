@@ -1,0 +1,21 @@
+.style {
+    margin: auto;
+    width: 220px;
+    padding: 20px;
+    background-color: #999;
+    font-family: Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+  }
+
+  button {
+    background: #333;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+  }
+
+  input {
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 5px;
+  }
