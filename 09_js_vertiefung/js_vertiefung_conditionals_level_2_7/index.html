@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS-Vertiefung-Conditionals-Level-2_7</title>
+
+    <style>
+        :root {
+            --dhl-red: #D40511;
+            --dhl-yellow: #FFCC00;
+        }
+
+        .dhl {
+            display: flex;
+            color: var(--dhl-red);
+            background-color: var(--dhl-yellow);
+            height: 9em;
+            width: 25em;
+        }
+
+        .boxMasse {
+            margin: 5px;
+            width: 200px;
+            border: 2px solid var(--dhl-red);
+            ;
+            border-radius: 5px;
+            padding: 10px
+        }
+
+        .dhlButton {
+            border: 2px solid var(--dhl-red);
+            ;
+            color: #fff;
+            background-color: var(--dhl-red);
+            ;
+            margin: 5px;
+            display: inline-flex;
+            align-items: center;
+            padding: .5rem 3.8rem;
+            border: 2px solid #d1d1d1;
+            border-radius: 0;
+            cursor: pointer;
+            outline: 0;
+            font-weight: 500;
+            white-space: normal;
+            transition: color 200ms, background-color 200ms, border-color 200ms;
+        }
+
+        .dhlButton:hover {
+            color: var(--dhl-red);
+            ;
+            background-color: #fff;
+            outline: 0;
+            border-color: var(--dhl-red);
+            ;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="dhl">
+        <form id="myform">
+            <select name="mylist" size="3" id="mylist">
+                <option value="0">Briefe</option>
+                <option value="0">Postkarte</option>
+                <option value="1">Bücher bis 500g</option>
+                <option value="1">Bücher bis 1000g</option>
+                <option value="1">MacBook Air</option>
+                <option value="2">Drucker</option>
+                <option value="2">Mikrowelle</option>
+                <option value="3">Kleinmöbel</option>
+                <option value="3">kleine Kühlschränke</option>
+            </select>
+            <a type="button" class="dhlButton" onclick="showtxt()" value="Paketgröße und -gewicht">Paketgröße und
+                -gewicht</a>
+        </form>
+        <div class="boxMasse">
+            <table>
+                <tr>
+                    <td><b>Größe und Gewicht:</b></td>
+                    <td id="masse"></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+</body>
+
+</html>
