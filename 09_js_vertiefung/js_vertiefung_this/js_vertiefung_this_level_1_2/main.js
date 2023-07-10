@@ -8,3 +8,5 @@
 //         return this...;
 // }
 // };
+// //gib das Profil von Anton mit diesem Code im Element mit der "person" aus.
+// document.getElementById("person").innerHTML = person.profil();
