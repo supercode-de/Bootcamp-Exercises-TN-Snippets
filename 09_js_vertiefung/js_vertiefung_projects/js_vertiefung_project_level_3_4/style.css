@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+#snakeField{
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    margin: auto;
+}
+
+.item{
+    background-color: lightblue;
+    border: 2px solid blue;
+    height: 50px;
+    width: 10%;
+    border-radius: 5px;
+}
