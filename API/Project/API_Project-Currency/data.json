@@ -1,0 +1,5002 @@
+[
+    {
+        "country": "Japan",
+        "currencyCode": "JPY",
+        "currency": "Yen"
+    },
+    {
+        "country": "Dominican Republic",
+        "currencyCode": "DOP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Ukraine",
+        "currencyCode": "UAH",
+        "currency": "Hryvnia"
+    },
+    {
+        "country": "Croatia",
+        "currencyCode": "HRK",
+        "currency": "Kuna"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Japan",
+        "currencyCode": "JPY",
+        "currency": "Yen"
+    },
+    {
+        "country": "Iran",
+        "currencyCode": "IRR",
+        "currency": "Rial"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Ukraine",
+        "currencyCode": "UAH",
+        "currency": "Hryvnia"
+    },
+    {
+        "country": "Palestinian Territory",
+        "currencyCode": "ILS",
+        "currency": "Shekel"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "currencyCode": "KGS",
+        "currency": "Som"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Nigeria",
+        "currencyCode": "NGN",
+        "currency": "Naira"
+    },
+    {
+        "country": "Colombia",
+        "currencyCode": "COP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Egypt",
+        "currencyCode": "EGP",
+        "currency": "Pound"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Mongolia",
+        "currencyCode": "MNT",
+        "currency": "Tugrik"
+    },
+    {
+        "country": "Tajikistan",
+        "currencyCode": "TJS",
+        "currency": "Somoni"
+    },
+    {
+        "country": "Kenya",
+        "currencyCode": "KES",
+        "currency": "Shilling"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Jordan",
+        "currencyCode": "JOD",
+        "currency": "Dinar"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Venezuela",
+        "currencyCode": "VEF",
+        "currency": "Bolivar"
+    },
+    {
+        "country": "Armenia",
+        "currencyCode": "AMD",
+        "currency": "Dram"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "Japan",
+        "currencyCode": "JPY",
+        "currency": "Yen"
+    },
+    {
+        "country": "Slovenia",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Turkmenistan",
+        "currencyCode": "TMT",
+        "currency": "Manat"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Hungary",
+        "currencyCode": "HUF",
+        "currency": "Forint"
+    },
+    {
+        "country": "Myanmar",
+        "currencyCode": "MMK",
+        "currency": "Kyat"
+    },
+    {
+        "country": "Thailand",
+        "currencyCode": "THB",
+        "currency": "Baht"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Germany",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Thailand",
+        "currencyCode": "THB",
+        "currency": "Baht"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Bolivia",
+        "currencyCode": "BOB",
+        "currency": "Boliviano"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Palestinian Territory",
+        "currencyCode": "ILS",
+        "currency": "Shekel"
+    },
+    {
+        "country": "Panama",
+        "currencyCode": "PAB",
+        "currency": "Balboa"
+    },
+    {
+        "country": "Mongolia",
+        "currencyCode": "MNT",
+        "currency": "Tugrik"
+    },
+    {
+        "country": "Thailand",
+        "currencyCode": "THB",
+        "currency": "Baht"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Ukraine",
+        "currencyCode": "UAH",
+        "currency": "Hryvnia"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "currencyCode": "KGS",
+        "currency": "Som"
+    },
+    {
+        "country": "Belarus",
+        "currencyCode": "BYR",
+        "currency": "Ruble"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Argentina",
+        "currencyCode": "ARS",
+        "currency": "Peso"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Latvia",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Madagascar",
+        "currencyCode": "MGA",
+        "currency": "Ariary"
+    },
+    {
+        "country": "Vietnam",
+        "currencyCode": "VND",
+        "currency": "Dong"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Albania",
+        "currencyCode": "ALL",
+        "currency": "Lek"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Japan",
+        "currencyCode": "JPY",
+        "currency": "Yen"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Tunisia",
+        "currencyCode": "TND",
+        "currency": "Dinar"
+    },
+    {
+        "country": "Japan",
+        "currencyCode": "JPY",
+        "currency": "Yen"
+    },
+    {
+        "country": "Greece",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Argentina",
+        "currencyCode": "ARS",
+        "currency": "Peso"
+    },
+    {
+        "country": "Japan",
+        "currencyCode": "JPY",
+        "currency": "Yen"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Syria",
+        "currencyCode": "SYP",
+        "currency": "Pound"
+    },
+    {
+        "country": "Thailand",
+        "currencyCode": "THB",
+        "currency": "Baht"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Czech Republic",
+        "currencyCode": "CZK",
+        "currency": "Koruna"
+    },
+    {
+        "country": "Czech Republic",
+        "currencyCode": "CZK",
+        "currency": "Koruna"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Chad",
+        "currencyCode": "XAF",
+        "currency": "Franc"
+    },
+    {
+        "country": "Spain",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Slovenia",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Croatia",
+        "currencyCode": "HRK",
+        "currency": "Kuna"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Jordan",
+        "currencyCode": "JOD",
+        "currency": "Dinar"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Greece",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Czech Republic",
+        "currencyCode": "CZK",
+        "currency": "Koruna"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Czech Republic",
+        "currencyCode": "CZK",
+        "currency": "Koruna"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Peru",
+        "currencyCode": "PEN",
+        "currency": "Sol"
+    },
+    {
+        "country": "Costa Rica",
+        "currencyCode": "CRC",
+        "currency": "Colon"
+    },
+    {
+        "country": "Iran",
+        "currencyCode": "IRR",
+        "currency": "Rial"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Macedonia",
+        "currencyCode": "MKD",
+        "currency": "Denar"
+    },
+    {
+        "country": "Nicaragua",
+        "currencyCode": "NIO",
+        "currency": "Cordoba"
+    },
+    {
+        "country": "Kazakhstan",
+        "currencyCode": "KZT",
+        "currency": "Tenge"
+    },
+    {
+        "country": "Germany",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Chile",
+        "currencyCode": "CLP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Mexico",
+        "currencyCode": "MXN",
+        "currency": "Peso"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Ukraine",
+        "currencyCode": "UAH",
+        "currency": "Hryvnia"
+    },
+    {
+        "country": "Macedonia",
+        "currencyCode": "MKD",
+        "currency": "Denar"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Albania",
+        "currencyCode": "ALL",
+        "currency": "Lek"
+    },
+    {
+        "country": "Bulgaria",
+        "currencyCode": "BGN",
+        "currency": "Lev"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "currencyCode": "KGS",
+        "currency": "Som"
+    },
+    {
+        "country": "Japan",
+        "currencyCode": "JPY",
+        "currency": "Yen"
+    },
+    {
+        "country": "Japan",
+        "currencyCode": "JPY",
+        "currency": "Yen"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Malaysia",
+        "currencyCode": "MYR",
+        "currency": "Ringgit"
+    },
+    {
+        "country": "Macedonia",
+        "currencyCode": "MKD",
+        "currency": "Denar"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Azerbaijan",
+        "currencyCode": "AZN",
+        "currency": "Manat"
+    },
+    {
+        "country": "Japan",
+        "currencyCode": "JPY",
+        "currency": "Yen"
+    },
+    {
+        "country": "Greece",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Albania",
+        "currencyCode": "ALL",
+        "currency": "Lek"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Peru",
+        "currencyCode": "PEN",
+        "currency": "Sol"
+    },
+    {
+        "country": "Mexico",
+        "currencyCode": "MXN",
+        "currency": "Peso"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Australia",
+        "currencyCode": "AUD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Peru",
+        "currencyCode": "PEN",
+        "currency": "Sol"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Czech Republic",
+        "currencyCode": "CZK",
+        "currency": "Koruna"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Afghanistan",
+        "currencyCode": "AFN",
+        "currency": "Afghani"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Cuba",
+        "currencyCode": "CUP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Ukraine",
+        "currencyCode": "UAH",
+        "currency": "Hryvnia"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Ireland",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Latvia",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Italy",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "Uzbekistan",
+        "currencyCode": "UZS",
+        "currency": "Som"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Ukraine",
+        "currencyCode": "UAH",
+        "currency": "Hryvnia"
+    },
+    {
+        "country": "Burkina Faso",
+        "currencyCode": "XOF",
+        "currency": "Franc"
+    },
+    {
+        "country": "Netherlands",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Germany",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Afghanistan",
+        "currencyCode": "AFN",
+        "currency": "Afghani"
+    },
+    {
+        "country": "Taiwan",
+        "currencyCode": "TWD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Colombia",
+        "currencyCode": "COP",
+        "currency": "Peso"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Yemen",
+        "currencyCode": "YER",
+        "currency": "Rial"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Palestinian Territory",
+        "currencyCode": "ILS",
+        "currency": "Shekel"
+    },
+    {
+        "country": "Syria",
+        "currencyCode": "SYP",
+        "currency": "Pound"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "South Korea",
+        "currencyCode": "KRW",
+        "currency": "Won"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Nigeria",
+        "currencyCode": "NGN",
+        "currency": "Naira"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Malaysia",
+        "currencyCode": "MYR",
+        "currency": "Ringgit"
+    },
+    {
+        "country": "Japan",
+        "currencyCode": "JPY",
+        "currency": "Yen"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Vietnam",
+        "currencyCode": "VND",
+        "currency": "Dong"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Croatia",
+        "currencyCode": "HRK",
+        "currency": "Kuna"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Azerbaijan",
+        "currencyCode": "AZN",
+        "currency": "Manat"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Venezuela",
+        "currencyCode": "VEF",
+        "currency": "Bolivar"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "currencyCode": "BAM",
+        "currency": "Marka"
+    },
+    {
+        "country": "Cameroon",
+        "currencyCode": "XAF",
+        "currency": "Franc"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Thailand",
+        "currencyCode": "THB",
+        "currency": "Baht"
+    },
+    {
+        "country": "Luxembourg",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Iran",
+        "currencyCode": "IRR",
+        "currency": "Rial"
+    },
+    {
+        "country": "Burkina Faso",
+        "currencyCode": "XOF",
+        "currency": "Franc"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Kosovo",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Thailand",
+        "currencyCode": "THB",
+        "currency": "Baht"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Peru",
+        "currencyCode": "PEN",
+        "currency": "Sol"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Spain",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "South Africa",
+        "currencyCode": "ZAR",
+        "currency": "Rand"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Latvia",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Georgia",
+        "currencyCode": "GEL",
+        "currency": "Lari"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Czech Republic",
+        "currencyCode": "CZK",
+        "currency": "Koruna"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Mexico",
+        "currencyCode": "MXN",
+        "currency": "Peso"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Ecuador",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Costa Rica",
+        "currencyCode": "CRC",
+        "currency": "Colon"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Bulgaria",
+        "currencyCode": "BGN",
+        "currency": "Lev"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Ukraine",
+        "currencyCode": "UAH",
+        "currency": "Hryvnia"
+    },
+    {
+        "country": "Pakistan",
+        "currencyCode": "PKR",
+        "currency": "Rupee"
+    },
+    {
+        "country": "Nigeria",
+        "currencyCode": "NGN",
+        "currency": "Naira"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Peru",
+        "currencyCode": "PEN",
+        "currency": "Sol"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Colombia",
+        "currencyCode": "COP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "currencyCode": "XCD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Japan",
+        "currencyCode": "JPY",
+        "currency": "Yen"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Thailand",
+        "currencyCode": "THB",
+        "currency": "Baht"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "South Africa",
+        "currencyCode": "ZAR",
+        "currency": "Rand"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "Haiti",
+        "currencyCode": "HTG",
+        "currency": "Gourde"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Norway",
+        "currencyCode": "NOK",
+        "currency": "Krone"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Peru",
+        "currencyCode": "PEN",
+        "currency": "Sol"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Nigeria",
+        "currencyCode": "NGN",
+        "currency": "Naira"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Spain",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Bulgaria",
+        "currencyCode": "BGN",
+        "currency": "Lev"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Togo",
+        "currencyCode": "XOF",
+        "currency": "Franc"
+    },
+    {
+        "country": "Kazakhstan",
+        "currencyCode": "KZT",
+        "currency": "Tenge"
+    },
+    {
+        "country": "Mongolia",
+        "currencyCode": "MNT",
+        "currency": "Tugrik"
+    },
+    {
+        "country": "Guatemala",
+        "currencyCode": "GTQ",
+        "currency": "Quetzal"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Malaysia",
+        "currencyCode": "MYR",
+        "currency": "Ringgit"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Iran",
+        "currencyCode": "IRR",
+        "currency": "Rial"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Azerbaijan",
+        "currencyCode": "AZN",
+        "currency": "Manat"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Mexico",
+        "currencyCode": "MXN",
+        "currency": "Peso"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Tanzania",
+        "currencyCode": "TZS",
+        "currency": "Shilling"
+    },
+    {
+        "country": "Micronesia",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Ukraine",
+        "currencyCode": "UAH",
+        "currency": "Hryvnia"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Slovenia",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Spain",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Japan",
+        "currencyCode": "JPY",
+        "currency": "Yen"
+    },
+    {
+        "country": "Madagascar",
+        "currencyCode": "MGA",
+        "currency": "Ariary"
+    },
+    {
+        "country": "Croatia",
+        "currencyCode": "HRK",
+        "currency": "Kuna"
+    },
+    {
+        "country": "Finland",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Vietnam",
+        "currencyCode": "VND",
+        "currency": "Dong"
+    },
+    {
+        "country": "Mexico",
+        "currencyCode": "MXN",
+        "currency": "Peso"
+    },
+    {
+        "country": "Angola",
+        "currencyCode": "AOA",
+        "currency": "Kwanza"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Kenya",
+        "currencyCode": "KES",
+        "currency": "Shilling"
+    },
+    {
+        "country": "Czech Republic",
+        "currencyCode": "CZK",
+        "currency": "Koruna"
+    },
+    {
+        "country": "Ethiopia",
+        "currencyCode": "ETB",
+        "currency": "Birr"
+    },
+    {
+        "country": "Colombia",
+        "currencyCode": "COP",
+        "currency": "Peso"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "United Kingdom",
+        "currencyCode": "GBP",
+        "currency": "Pound"
+    },
+    {
+        "country": "Albania",
+        "currencyCode": "ALL",
+        "currency": "Lek"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Venezuela",
+        "currencyCode": "VEF",
+        "currency": "Bolivar"
+    },
+    {
+        "country": "Mexico",
+        "currencyCode": "MXN",
+        "currency": "Peso"
+    },
+    {
+        "country": "Vietnam",
+        "currencyCode": "VND",
+        "currency": "Dong"
+    },
+    {
+        "country": "Canada",
+        "currencyCode": "CAD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Nigeria",
+        "currencyCode": "NGN",
+        "currency": "Naira"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "South Korea",
+        "currencyCode": "KRW",
+        "currency": "Won"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Canada",
+        "currencyCode": "CAD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Nigeria",
+        "currencyCode": "NGN",
+        "currency": "Naira"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Bangladesh",
+        "currencyCode": "BDT",
+        "currency": "Taka"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Myanmar",
+        "currencyCode": "MMK",
+        "currency": "Kyat"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Honduras",
+        "currencyCode": "HNL",
+        "currency": "Lempira"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Ukraine",
+        "currencyCode": "UAH",
+        "currency": "Hryvnia"
+    },
+    {
+        "country": "Netherlands",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Peru",
+        "currencyCode": "PEN",
+        "currency": "Sol"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Ukraine",
+        "currencyCode": "UAH",
+        "currency": "Hryvnia"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Egypt",
+        "currencyCode": "EGP",
+        "currency": "Pound"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Mozambique",
+        "currencyCode": "MZN",
+        "currency": "Metical"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Peru",
+        "currencyCode": "PEN",
+        "currency": "Sol"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Guatemala",
+        "currencyCode": "GTQ",
+        "currency": "Quetzal"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Peru",
+        "currencyCode": "PEN",
+        "currency": "Sol"
+    },
+    {
+        "country": "Argentina",
+        "currencyCode": "ARS",
+        "currency": "Peso"
+    },
+    {
+        "country": "El Salvador",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Republic of the Congo",
+        "currencyCode": "XAF",
+        "currency": "Franc"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Azerbaijan",
+        "currencyCode": "AZN",
+        "currency": "Manat"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Ukraine",
+        "currencyCode": "UAH",
+        "currency": "Hryvnia"
+    },
+    {
+        "country": "Spain",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Czech Republic",
+        "currencyCode": "CZK",
+        "currency": "Koruna"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Botswana",
+        "currencyCode": "BWP",
+        "currency": "Pula"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Haiti",
+        "currencyCode": "HTG",
+        "currency": "Gourde"
+    },
+    {
+        "country": "Luxembourg",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Syria",
+        "currencyCode": "SYP",
+        "currency": "Pound"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Denmark",
+        "currencyCode": "DKK",
+        "currency": "Krone"
+    },
+    {
+        "country": "Finland",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Canada",
+        "currencyCode": "CAD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "Netherlands",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Vietnam",
+        "currencyCode": "VND",
+        "currency": "Dong"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Guatemala",
+        "currencyCode": "GTQ",
+        "currency": "Quetzal"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Madagascar",
+        "currencyCode": "MGA",
+        "currency": "Ariary"
+    },
+    {
+        "country": "Costa Rica",
+        "currencyCode": "CRC",
+        "currency": "Colon"
+    },
+    {
+        "country": "South Africa",
+        "currencyCode": "ZAR",
+        "currency": "Rand"
+    },
+    {
+        "country": "Peru",
+        "currencyCode": "PEN",
+        "currency": "Sol"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Sri Lanka",
+        "currencyCode": "LKR",
+        "currency": "Rupee"
+    },
+    {
+        "country": "Morocco",
+        "currencyCode": "MAD",
+        "currency": "Dirham"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Thailand",
+        "currencyCode": "THB",
+        "currency": "Baht"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Tajikistan",
+        "currencyCode": "TJS",
+        "currency": "Somoni"
+    },
+    {
+        "country": "Croatia",
+        "currencyCode": "HRK",
+        "currency": "Kuna"
+    },
+    {
+        "country": "Cuba",
+        "currencyCode": "CUP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Zimbabwe",
+        "currencyCode": "ZWL",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Ukraine",
+        "currencyCode": "UAH",
+        "currency": "Hryvnia"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Dominican Republic",
+        "currencyCode": "DOP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Maldives",
+        "currencyCode": "MVR",
+        "currency": "Rufiyaa"
+    },
+    {
+        "country": "Hungary",
+        "currencyCode": "HUF",
+        "currency": "Forint"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "South Africa",
+        "currencyCode": "ZAR",
+        "currency": "Rand"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Bulgaria",
+        "currencyCode": "BGN",
+        "currency": "Lev"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Ecuador",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Vietnam",
+        "currencyCode": "VND",
+        "currency": "Dong"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Macedonia",
+        "currencyCode": "MKD",
+        "currency": "Denar"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Niger",
+        "currencyCode": "XOF",
+        "currency": "Franc"
+    },
+    {
+        "country": "Peru",
+        "currencyCode": "PEN",
+        "currency": "Sol"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Argentina",
+        "currencyCode": "ARS",
+        "currency": "Peso"
+    },
+    {
+        "country": "Iran",
+        "currencyCode": "IRR",
+        "currency": "Rial"
+    },
+    {
+        "country": "Colombia",
+        "currencyCode": "COP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Greece",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Finland",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Thailand",
+        "currencyCode": "THB",
+        "currency": "Baht"
+    },
+    {
+        "country": "Honduras",
+        "currencyCode": "HNL",
+        "currency": "Lempira"
+    },
+    {
+        "country": "Czech Republic",
+        "currencyCode": "CZK",
+        "currency": "Koruna"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Spain",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Pakistan",
+        "currencyCode": "PKR",
+        "currency": "Rupee"
+    },
+    {
+        "country": "Peru",
+        "currencyCode": "PEN",
+        "currency": "Sol"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Ukraine",
+        "currencyCode": "UAH",
+        "currency": "Hryvnia"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Madagascar",
+        "currencyCode": "MGA",
+        "currency": "Ariary"
+    },
+    {
+        "country": "Vietnam",
+        "currencyCode": "VND",
+        "currency": "Dong"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Comoros",
+        "currencyCode": "KMF",
+        "currency": "Franc"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Japan",
+        "currencyCode": "JPY",
+        "currency": "Yen"
+    },
+    {
+        "country": "Nigeria",
+        "currencyCode": "NGN",
+        "currency": "Naira"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Ukraine",
+        "currencyCode": "UAH",
+        "currency": "Hryvnia"
+    },
+    {
+        "country": "United Kingdom",
+        "currencyCode": "GBP",
+        "currency": "Pound"
+    },
+    {
+        "country": "Peru",
+        "currencyCode": "PEN",
+        "currency": "Sol"
+    },
+    {
+        "country": "Iran",
+        "currencyCode": "IRR",
+        "currency": "Rial"
+    },
+    {
+        "country": "Zambia",
+        "currencyCode": "ZMW",
+        "currency": "Kwacha"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Chile",
+        "currencyCode": "CLP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Panama",
+        "currencyCode": "PAB",
+        "currency": "Balboa"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Zambia",
+        "currencyCode": "ZMW",
+        "currency": "Kwacha"
+    },
+    {
+        "country": "Suriname",
+        "currencyCode": "SRD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Czech Republic",
+        "currencyCode": "CZK",
+        "currency": "Koruna"
+    },
+    {
+        "country": "Netherlands",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Czech Republic",
+        "currencyCode": "CZK",
+        "currency": "Koruna"
+    },
+    {
+        "country": "Slovenia",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Afghanistan",
+        "currencyCode": "AFN",
+        "currency": "Afghani"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Thailand",
+        "currencyCode": "THB",
+        "currency": "Baht"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Canada",
+        "currencyCode": "CAD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Zimbabwe",
+        "currencyCode": "ZWL",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "Nigeria",
+        "currencyCode": "NGN",
+        "currency": "Naira"
+    },
+    {
+        "country": "Finland",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Germany",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Somalia",
+        "currencyCode": "SOS",
+        "currency": "Shilling"
+    },
+    {
+        "country": "Uzbekistan",
+        "currencyCode": "UZS",
+        "currency": "Som"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Norway",
+        "currencyCode": "NOK",
+        "currency": "Krone"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Japan",
+        "currencyCode": "JPY",
+        "currency": "Yen"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "Honduras",
+        "currencyCode": "HNL",
+        "currency": "Lempira"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Greece",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Estonia",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Colombia",
+        "currencyCode": "COP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Armenia",
+        "currencyCode": "AMD",
+        "currency": "Dram"
+    },
+    {
+        "country": "Colombia",
+        "currencyCode": "COP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Argentina",
+        "currencyCode": "ARS",
+        "currency": "Peso"
+    },
+    {
+        "country": "Thailand",
+        "currencyCode": "THB",
+        "currency": "Baht"
+    },
+    {
+        "country": "Croatia",
+        "currencyCode": "HRK",
+        "currency": "Kuna"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Finland",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Canada",
+        "currencyCode": "CAD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Yemen",
+        "currencyCode": "YER",
+        "currency": "Rial"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Armenia",
+        "currencyCode": "AMD",
+        "currency": "Dram"
+    },
+    {
+        "country": "South Africa",
+        "currencyCode": "ZAR",
+        "currency": "Rand"
+    },
+    {
+        "country": "Canada",
+        "currencyCode": "CAD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Ethiopia",
+        "currencyCode": "ETB",
+        "currency": "Birr"
+    },
+    {
+        "country": "Croatia",
+        "currencyCode": "HRK",
+        "currency": "Kuna"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Luxembourg",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "currencyCode": "TTD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Pakistan",
+        "currencyCode": "PKR",
+        "currency": "Rupee"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Georgia",
+        "currencyCode": "GEL",
+        "currency": "Lari"
+    },
+    {
+        "country": "Morocco",
+        "currencyCode": "MAD",
+        "currency": "Dirham"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Canada",
+        "currencyCode": "CAD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Iraq",
+        "currencyCode": "IQD",
+        "currency": "Dinar"
+    },
+    {
+        "country": "Syria",
+        "currencyCode": "SYP",
+        "currency": "Pound"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Czech Republic",
+        "currencyCode": "CZK",
+        "currency": "Koruna"
+    },
+    {
+        "country": "Sierra Leone",
+        "currencyCode": "SLL",
+        "currency": "Leone"
+    },
+    {
+        "country": "Venezuela",
+        "currencyCode": "VEF",
+        "currency": "Bolivar"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Thailand",
+        "currencyCode": "THB",
+        "currency": "Baht"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Colombia",
+        "currencyCode": "COP",
+        "currency": "Peso"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Iran",
+        "currencyCode": "IRR",
+        "currency": "Rial"
+    },
+    {
+        "country": "Macedonia",
+        "currencyCode": "MKD",
+        "currency": "Denar"
+    },
+    {
+        "country": "Peru",
+        "currencyCode": "PEN",
+        "currency": "Sol"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Greece",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "French Polynesia",
+        "currencyCode": "XPF",
+        "currency": "Franc"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Honduras",
+        "currencyCode": "HNL",
+        "currency": "Lempira"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Bulgaria",
+        "currencyCode": "BGN",
+        "currency": "Lev"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Colombia",
+        "currencyCode": "COP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Sri Lanka",
+        "currencyCode": "LKR",
+        "currency": "Rupee"
+    },
+    {
+        "country": "South Africa",
+        "currencyCode": "ZAR",
+        "currency": "Rand"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Argentina",
+        "currencyCode": "ARS",
+        "currency": "Peso"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Mexico",
+        "currencyCode": "MXN",
+        "currency": "Peso"
+    },
+    {
+        "country": "Thailand",
+        "currencyCode": "THB",
+        "currency": "Baht"
+    },
+    {
+        "country": "Tanzania",
+        "currencyCode": "TZS",
+        "currency": "Shilling"
+    },
+    {
+        "country": "Mexico",
+        "currencyCode": "MXN",
+        "currency": "Peso"
+    },
+    {
+        "country": "Syria",
+        "currencyCode": "SYP",
+        "currency": "Pound"
+    },
+    {
+        "country": "Syria",
+        "currencyCode": "SYP",
+        "currency": "Pound"
+    },
+    {
+        "country": "Uruguay",
+        "currencyCode": "UYU",
+        "currency": "Peso"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "South Africa",
+        "currencyCode": "ZAR",
+        "currency": "Rand"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Kenya",
+        "currencyCode": "KES",
+        "currency": "Shilling"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "United Arab Emirates",
+        "currencyCode": "AED",
+        "currency": "Dirham"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Bhutan",
+        "currencyCode": "BTN",
+        "currency": "Ngultrum"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Serbia",
+        "currencyCode": "RSD",
+        "currency": "Dinar"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "North Korea",
+        "currencyCode": "KPW",
+        "currency": "Won"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Vietnam",
+        "currencyCode": "VND",
+        "currency": "Dong"
+    },
+    {
+        "country": "Morocco",
+        "currencyCode": "MAD",
+        "currency": "Dirham"
+    },
+    {
+        "country": "Macedonia",
+        "currencyCode": "MKD",
+        "currency": "Denar"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Iran",
+        "currencyCode": "IRR",
+        "currency": "Rial"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Japan",
+        "currencyCode": "JPY",
+        "currency": "Yen"
+    },
+    {
+        "country": "Serbia",
+        "currencyCode": "RSD",
+        "currency": "Dinar"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Czech Republic",
+        "currencyCode": "CZK",
+        "currency": "Koruna"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Tanzania",
+        "currencyCode": "TZS",
+        "currency": "Shilling"
+    },
+    {
+        "country": "Argentina",
+        "currencyCode": "ARS",
+        "currency": "Peso"
+    },
+    {
+        "country": "El Salvador",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Botswana",
+        "currencyCode": "BWP",
+        "currency": "Pula"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Greece",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Bulgaria",
+        "currencyCode": "BGN",
+        "currency": "Lev"
+    },
+    {
+        "country": "Argentina",
+        "currencyCode": "ARS",
+        "currency": "Peso"
+    },
+    {
+        "country": "Canada",
+        "currencyCode": "CAD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Haiti",
+        "currencyCode": "HTG",
+        "currency": "Gourde"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Morocco",
+        "currencyCode": "MAD",
+        "currency": "Dirham"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Ukraine",
+        "currencyCode": "UAH",
+        "currency": "Hryvnia"
+    },
+    {
+        "country": "Malaysia",
+        "currencyCode": "MYR",
+        "currency": "Ringgit"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Papua New Guinea",
+        "currencyCode": "PGK",
+        "currency": "Kina"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Thailand",
+        "currencyCode": "THB",
+        "currency": "Baht"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Kuwait",
+        "currencyCode": "KWD",
+        "currency": "Dinar"
+    },
+    {
+        "country": "Madagascar",
+        "currencyCode": "MGA",
+        "currency": "Ariary"
+    },
+    {
+        "country": "Uganda",
+        "currencyCode": "UGX",
+        "currency": "Shilling"
+    },
+    {
+        "country": "Ukraine",
+        "currencyCode": "UAH",
+        "currency": "Hryvnia"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Greece",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Mongolia",
+        "currencyCode": "MNT",
+        "currency": "Tugrik"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "New Zealand",
+        "currencyCode": "NZD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Ireland",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Venezuela",
+        "currencyCode": "VEF",
+        "currency": "Bolivar"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Nigeria",
+        "currencyCode": "NGN",
+        "currency": "Naira"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Nicaragua",
+        "currencyCode": "NIO",
+        "currency": "Cordoba"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Afghanistan",
+        "currencyCode": "AFN",
+        "currency": "Afghani"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Norway",
+        "currencyCode": "NOK",
+        "currency": "Krone"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Libya",
+        "currencyCode": "LYD",
+        "currency": "Dinar"
+    },
+    {
+        "country": "Comoros",
+        "currencyCode": "KMF",
+        "currency": "Franc"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Argentina",
+        "currencyCode": "ARS",
+        "currency": "Peso"
+    },
+    {
+        "country": "Libya",
+        "currencyCode": "LYD",
+        "currency": "Dinar"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Lebanon",
+        "currencyCode": "LBP",
+        "currency": "Pound"
+    },
+    {
+        "country": "Tajikistan",
+        "currencyCode": "TJS",
+        "currency": "Somoni"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Japan",
+        "currencyCode": "JPY",
+        "currency": "Yen"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Venezuela",
+        "currencyCode": "VEF",
+        "currency": "Bolivar"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Vietnam",
+        "currencyCode": "VND",
+        "currency": "Dong"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Costa Rica",
+        "currencyCode": "CRC",
+        "currency": "Colon"
+    },
+    {
+        "country": "Morocco",
+        "currencyCode": "MAD",
+        "currency": "Dirham"
+    },
+    {
+        "country": "Japan",
+        "currencyCode": "JPY",
+        "currency": "Yen"
+    },
+    {
+        "country": "Croatia",
+        "currencyCode": "HRK",
+        "currency": "Kuna"
+    },
+    {
+        "country": "Slovenia",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Vietnam",
+        "currencyCode": "VND",
+        "currency": "Dong"
+    },
+    {
+        "country": "Iran",
+        "currencyCode": "IRR",
+        "currency": "Rial"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Thailand",
+        "currencyCode": "THB",
+        "currency": "Baht"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Estonia",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "South Africa",
+        "currencyCode": "ZAR",
+        "currency": "Rand"
+    },
+    {
+        "country": "Colombia",
+        "currencyCode": "COP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Ivory Coast",
+        "currencyCode": "XOF",
+        "currency": "Franc"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Thailand",
+        "currencyCode": "THB",
+        "currency": "Baht"
+    },
+    {
+        "country": "Morocco",
+        "currencyCode": "MAD",
+        "currency": "Dirham"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Cuba",
+        "currencyCode": "CUP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Colombia",
+        "currencyCode": "COP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Netherlands",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Czech Republic",
+        "currencyCode": "CZK",
+        "currency": "Koruna"
+    },
+    {
+        "country": "Palestinian Territory",
+        "currencyCode": "ILS",
+        "currency": "Shekel"
+    },
+    {
+        "country": "Mexico",
+        "currencyCode": "MXN",
+        "currency": "Peso"
+    },
+    {
+        "country": "Costa Rica",
+        "currencyCode": "CRC",
+        "currency": "Colon"
+    },
+    {
+        "country": "Greece",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Bulgaria",
+        "currencyCode": "BGN",
+        "currency": "Lev"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Serbia",
+        "currencyCode": "RSD",
+        "currency": "Dinar"
+    },
+    {
+        "country": "Malta",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Tunisia",
+        "currencyCode": "TND",
+        "currency": "Dinar"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Vietnam",
+        "currencyCode": "VND",
+        "currency": "Dong"
+    },
+    {
+        "country": "Czech Republic",
+        "currencyCode": "CZK",
+        "currency": "Koruna"
+    },
+    {
+        "country": "Slovenia",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Canada",
+        "currencyCode": "CAD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Tanzania",
+        "currencyCode": "TZS",
+        "currency": "Shilling"
+    },
+    {
+        "country": "Greece",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Peru",
+        "currencyCode": "PEN",
+        "currency": "Sol"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Pakistan",
+        "currencyCode": "PKR",
+        "currency": "Rupee"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Mexico",
+        "currencyCode": "MXN",
+        "currency": "Peso"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Mongolia",
+        "currencyCode": "MNT",
+        "currency": "Tugrik"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Ireland",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Cambodia",
+        "currencyCode": "KHR",
+        "currency": "Riels"
+    },
+    {
+        "country": "United States",
+        "currencyCode": "USD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Portugal",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Haiti",
+        "currencyCode": "HTG",
+        "currency": "Gourde"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Sweden",
+        "currencyCode": "SEK",
+        "currency": "Krona"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Thailand",
+        "currencyCode": "THB",
+        "currency": "Baht"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Guatemala",
+        "currencyCode": "GTQ",
+        "currency": "Quetzal"
+    },
+    {
+        "country": "Cameroon",
+        "currencyCode": "XAF",
+        "currency": "Franc"
+    },
+    {
+        "country": "Costa Rica",
+        "currencyCode": "CRC",
+        "currency": "Colon"
+    },
+    {
+        "country": "Nigeria",
+        "currencyCode": "NGN",
+        "currency": "Naira"
+    },
+    {
+        "country": "Armenia",
+        "currencyCode": "AMD",
+        "currency": "Dram"
+    },
+    {
+        "country": "Canada",
+        "currencyCode": "CAD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Nigeria",
+        "currencyCode": "NGN",
+        "currency": "Naira"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "Czech Republic",
+        "currencyCode": "CZK",
+        "currency": "Koruna"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Thailand",
+        "currencyCode": "THB",
+        "currency": "Baht"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Afghanistan",
+        "currencyCode": "AFN",
+        "currency": "Afghani"
+    },
+    {
+        "country": "Zambia",
+        "currencyCode": "ZMW",
+        "currency": "Kwacha"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Mexico",
+        "currencyCode": "MXN",
+        "currency": "Peso"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Denmark",
+        "currencyCode": "DKK",
+        "currency": "Krone"
+    },
+    {
+        "country": "Israel",
+        "currencyCode": "ILS",
+        "currency": "Shekel"
+    },
+    {
+        "country": "Ukraine",
+        "currencyCode": "UAH",
+        "currency": "Hryvnia"
+    },
+    {
+        "country": "Nigeria",
+        "currencyCode": "NGN",
+        "currency": "Naira"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "Vietnam",
+        "currencyCode": "VND",
+        "currency": "Dong"
+    },
+    {
+        "country": "Denmark",
+        "currencyCode": "DKK",
+        "currency": "Krone"
+    },
+    {
+        "country": "Bolivia",
+        "currencyCode": "BOB",
+        "currency": "Boliviano"
+    },
+    {
+        "country": "France",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Czech Republic",
+        "currencyCode": "CZK",
+        "currency": "Koruna"
+    },
+    {
+        "country": "South Korea",
+        "currencyCode": "KRW",
+        "currency": "Won"
+    },
+    {
+        "country": "Paraguay",
+        "currencyCode": "PYG",
+        "currency": "Guarani"
+    },
+    {
+        "country": "Canada",
+        "currencyCode": "CAD",
+        "currency": "Dollar"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Armenia",
+        "currencyCode": "AMD",
+        "currency": "Dram"
+    },
+    {
+        "country": "Egypt",
+        "currencyCode": "EGP",
+        "currency": "Pound"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Russia",
+        "currencyCode": "RUB",
+        "currency": "Ruble"
+    },
+    {
+        "country": "Bangladesh",
+        "currencyCode": "BDT",
+        "currency": "Taka"
+    },
+    {
+        "country": "Tanzania",
+        "currencyCode": "TZS",
+        "currency": "Shilling"
+    },
+    {
+        "country": "Afghanistan",
+        "currencyCode": "AFN",
+        "currency": "Afghani"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Ethiopia",
+        "currencyCode": "ETB",
+        "currency": "Birr"
+    },
+    {
+        "country": "Tajikistan",
+        "currencyCode": "TJS",
+        "currency": "Somoni"
+    },
+    {
+        "country": "Mexico",
+        "currencyCode": "MXN",
+        "currency": "Peso"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "Honduras",
+        "currencyCode": "HNL",
+        "currency": "Lempira"
+    },
+    {
+        "country": "Chad",
+        "currencyCode": "XAF",
+        "currency": "Franc"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Vietnam",
+        "currencyCode": "VND",
+        "currency": "Dong"
+    },
+    {
+        "country": "Mongolia",
+        "currencyCode": "MNT",
+        "currency": "Tugrik"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Czech Republic",
+        "currencyCode": "CZK",
+        "currency": "Koruna"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Philippines",
+        "currencyCode": "PHP",
+        "currency": "Peso"
+    },
+    {
+        "country": "Mongolia",
+        "currencyCode": "MNT",
+        "currency": "Tugrik"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Poland",
+        "currencyCode": "PLN",
+        "currency": "Zloty"
+    },
+    {
+        "country": "Ireland",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Greece",
+        "currencyCode": "EUR",
+        "currency": "Euro"
+    },
+    {
+        "country": "Brazil",
+        "currencyCode": "BRL",
+        "currency": "Real"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "Zimbabwe",
+        "currencyCode": "ZWL",
+        "currency": "Dollar"
+    },
+    {
+        "country": "Indonesia",
+        "currencyCode": "IDR",
+        "currency": "Rupiah"
+    },
+    {
+        "country": "China",
+        "currencyCode": "CNY",
+        "currency": "Yuan Renminbi"
+    },
+    {
+        "country": "Morocco",
+        "currencyCode": "MAD",
+        "currency": "Dirham"
+    },
+    {
+        "country": "Saudi Arabia",
+        "currencyCode": "SAR",
+        "currency": "Rial"
+    }
+]
