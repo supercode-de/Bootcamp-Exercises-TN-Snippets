@@ -1,0 +1,432 @@
+[
+    {
+        "firstname": "Holmes",
+        "lastname": "Castaneda",
+        "birthday": "1990-08-25T11:11:29.541Z",
+        "phone": "01736374893",
+        "job": "super held",
+        "verdienst": 555340,
+        "selfemployed": true,
+        "workedwith": false
+    },
+    {
+        "firstname": "Shepard",
+        "lastname": "Porter",
+        "birthday": "1995-02-27T01:07:12.372Z",
+        "phone": "016087987645",
+        "job": "busfahrer",
+        "verdienst": 610346,
+        "selfemployed": true,
+        "workedwith": true
+    },
+    {
+        "firstname": "Gilbert",
+        "lastname": "Hess",
+        "birthday": "1989-12-18T06:02:14.322Z",
+        "phone": "016087987645",
+        "job": "boss",
+        "verdienst": 647839,
+        "selfemployed": true,
+        "workedwith": false
+    },
+    {
+        "firstname": "Flores",
+        "lastname": "Collins",
+        "birthday": "2002-03-03T20:06:58.540Z",
+        "phone": "01736374893",
+        "job": "stifthalter",
+        "verdienst": 71458,
+        "selfemployed": true,
+        "workedwith": true
+    },
+    {
+        "firstname": "Beatrice",
+        "lastname": "Graham",
+        "birthday": "2002-03-04T06:00:54.187Z",
+        "phone": "0177454536",
+        "job": "super held",
+        "verdienst": 341873,
+        "selfemployed": false,
+        "workedwith": false
+    },
+    {
+        "firstname": "Poole",
+        "lastname": "Pugh",
+        "birthday": "1978-05-28T18:41:07.992Z",
+        "phone": "01736374893",
+        "job": "super held",
+        "verdienst": 55068,
+        "selfemployed": true,
+        "workedwith": false
+    },
+    {
+        "firstname": "Kellie",
+        "lastname": "Burt",
+        "birthday": "1987-11-15T01:41:18.408Z",
+        "phone": "01736374893",
+        "job": "millionaer",
+        "verdienst": 362572,
+        "selfemployed": true,
+        "workedwith": false
+    },
+    {
+        "firstname": "Jayne",
+        "lastname": "Diaz",
+        "birthday": "2005-09-13T06:50:20.436Z",
+        "phone": "0177454536",
+        "job": "stifthalter",
+        "verdienst": 209775,
+        "selfemployed": true,
+        "workedwith": false
+    },
+    {
+        "firstname": "Myra",
+        "lastname": "Lee",
+        "birthday": "1995-11-12T19:14:43.944Z",
+        "phone": "016087987645",
+        "job": "wissenschaftler",
+        "verdienst": 601806,
+        "selfemployed": true,
+        "workedwith": false
+    },
+    {
+        "firstname": "Middleton",
+        "lastname": "Key",
+        "birthday": "1991-08-20T15:11:17.533Z",
+        "phone": "0177454536",
+        "job": "millionaer",
+        "verdienst": 301310,
+        "selfemployed": true,
+        "workedwith": true
+    },
+    {
+        "firstname": "Combs",
+        "lastname": "Ferguson",
+        "birthday": "1977-12-14T19:04:46.790Z",
+        "phone": "016087987645",
+        "job": "wissenschaftler",
+        "verdienst": 27834,
+        "selfemployed": false,
+        "workedwith": true
+    },
+    {
+        "firstname": "Schultz",
+        "lastname": "Hudson",
+        "birthday": "1983-03-01T01:36:41.333Z",
+        "phone": "016087987645",
+        "job": "boss",
+        "verdienst": 312399,
+        "selfemployed": false,
+        "workedwith": false
+    },
+    {
+        "firstname": "Finley",
+        "lastname": "Fowler",
+        "birthday": "1982-01-16T00:16:27.329Z",
+        "phone": "016087987645",
+        "job": "programmierer",
+        "verdienst": 326645,
+        "selfemployed": false,
+        "workedwith": true
+    },
+    {
+        "firstname": "Sylvia",
+        "lastname": "Mercado",
+        "birthday": "1997-03-30T16:52:32.785Z",
+        "phone": "0177454536",
+        "job": "wissenschaftler",
+        "verdienst": 413556,
+        "selfemployed": false,
+        "workedwith": true
+    },
+    {
+        "firstname": "Marshall",
+        "lastname": "Massey",
+        "birthday": "1972-03-16T12:59:29.157Z",
+        "phone": "016087987645",
+        "job": "boss",
+        "verdienst": 67438,
+        "selfemployed": false,
+        "workedwith": true
+    },
+    {
+        "firstname": "Chrystal",
+        "lastname": "Simon",
+        "birthday": "2002-09-01T12:42:08.080Z",
+        "phone": "01736374893",
+        "job": "stifthalter",
+        "verdienst": 314539,
+        "selfemployed": true,
+        "workedwith": false
+    },
+    {
+        "firstname": "Clarke",
+        "lastname": "Flynn",
+        "birthday": "1973-04-03T22:12:16.313Z",
+        "phone": "0177454536",
+        "job": "boss",
+        "verdienst": 84912,
+        "selfemployed": false,
+        "workedwith": true
+    },
+    {
+        "firstname": "Rich",
+        "lastname": "Guy",
+        "birthday": "2003-04-09T17:47:20.093Z",
+        "phone": "0177454536",
+        "job": "busfahrer",
+        "verdienst": 459927,
+        "selfemployed": false,
+        "workedwith": false
+    },
+    {
+        "firstname": "Miller",
+        "lastname": "Kirkland",
+        "birthday": "1970-07-15T21:58:30.120Z",
+        "phone": "01736374893",
+        "job": "millionaer",
+        "verdienst": 319718,
+        "selfemployed": true,
+        "workedwith": true
+    },
+    {
+        "firstname": "Clements",
+        "lastname": "Singleton",
+        "birthday": "1977-05-01T19:06:50.999Z",
+        "phone": "016087987645",
+        "job": "millionaer",
+        "verdienst": 7935,
+        "selfemployed": true,
+        "workedwith": true
+    },
+    {
+        "firstname": "Kerr",
+        "lastname": "Fuentes",
+        "birthday": "1998-10-27T11:19:14.510Z",
+        "phone": "01736374893",
+        "job": "wissenschaftler",
+        "verdienst": 45836,
+        "selfemployed": true,
+        "workedwith": true
+    },
+    {
+        "firstname": "Alston",
+        "lastname": "Ruiz",
+        "birthday": "1988-03-10T10:37:40.095Z",
+        "phone": "016087987645",
+        "job": "programmierer",
+        "verdienst": 349192,
+        "selfemployed": true,
+        "workedwith": false
+    },
+    {
+        "firstname": "Tyson",
+        "lastname": "Gates",
+        "birthday": "2003-01-26T19:46:31.269Z",
+        "phone": "016087987645",
+        "job": "busfahrer",
+        "verdienst": 221885,
+        "selfemployed": false,
+        "workedwith": true
+    },
+    {
+        "firstname": "Doyle",
+        "lastname": "Mccarty",
+        "birthday": "1996-08-23T19:29:35.597Z",
+        "phone": "01736374893",
+        "job": "wissenschaftler",
+        "verdienst": 479359,
+        "selfemployed": false,
+        "workedwith": true
+    },
+    {
+        "firstname": "Rosemarie",
+        "lastname": "Murphy",
+        "birthday": "1997-10-06T04:12:23.616Z",
+        "phone": "01736374893",
+        "job": "busfahrer",
+        "verdienst": 592268,
+        "selfemployed": false,
+        "workedwith": true
+    },
+    {
+        "firstname": "Melva",
+        "lastname": "Grimes",
+        "birthday": "1988-09-18T00:41:56.501Z",
+        "phone": "016087987645",
+        "job": "stifthalter",
+        "verdienst": 58496,
+        "selfemployed": true,
+        "workedwith": true
+    },
+    {
+        "firstname": "Aimee",
+        "lastname": "Norton",
+        "birthday": "1974-07-07T00:47:20.866Z",
+        "phone": "01736374893",
+        "job": "super held",
+        "verdienst": 326548,
+        "selfemployed": false,
+        "workedwith": true
+    },
+    {
+        "firstname": "Reeves",
+        "lastname": "Meyers",
+        "birthday": "1998-08-07T10:33:09.006Z",
+        "phone": "01736374893",
+        "job": "millionaer",
+        "verdienst": 541849,
+        "selfemployed": true,
+        "workedwith": true
+    },
+    {
+        "firstname": "Sharpe",
+        "lastname": "Dickerson",
+        "birthday": "1998-06-23T20:09:15.926Z",
+        "phone": "01736374893",
+        "job": "super held",
+        "verdienst": 380698,
+        "selfemployed": true,
+        "workedwith": true
+    },
+    {
+        "firstname": "Dodson",
+        "lastname": "Morrison",
+        "birthday": "1993-06-22T22:04:57.402Z",
+        "phone": "01736374893",
+        "job": "busfahrer",
+        "verdienst": 581320,
+        "selfemployed": true,
+        "workedwith": false
+    },
+    {
+        "firstname": "Jacklyn",
+        "lastname": "Bowen",
+        "birthday": "1982-12-08T20:45:14.532Z",
+        "phone": "01736374893",
+        "job": "busfahrer",
+        "verdienst": 249204,
+        "selfemployed": true,
+        "workedwith": false
+    },
+    {
+        "firstname": "Jana",
+        "lastname": "Mills",
+        "birthday": "1982-04-19T16:09:58.739Z",
+        "phone": "0177454536",
+        "job": "busfahrer",
+        "verdienst": 273445,
+        "selfemployed": true,
+        "workedwith": true
+    },
+    {
+        "firstname": "Bernadine",
+        "lastname": "Ross",
+        "birthday": "2003-04-04T12:40:35.639Z",
+        "phone": "01736374893",
+        "job": "millionaer",
+        "verdienst": 201618,
+        "selfemployed": true,
+        "workedwith": false
+    },
+    {
+        "firstname": "Haynes",
+        "lastname": "Bartlett",
+        "birthday": "1986-08-31T12:22:35.262Z",
+        "phone": "016087987645",
+        "job": "wissenschaftler",
+        "verdienst": 364735,
+        "selfemployed": true,
+        "workedwith": true
+    },
+    {
+        "firstname": "Wiley",
+        "lastname": "Gonzales",
+        "birthday": "1980-06-27T13:33:47.429Z",
+        "phone": "01736374893",
+        "job": "stifthalter",
+        "verdienst": 471027,
+        "selfemployed": true,
+        "workedwith": true
+    },
+    {
+        "firstname": "Mcguire",
+        "lastname": "Cain",
+        "birthday": "1999-12-23T22:30:22.563Z",
+        "phone": "0177454536",
+        "job": "boss",
+        "verdienst": 548124,
+        "selfemployed": false,
+        "workedwith": true
+    },
+    {
+        "firstname": "Cohen",
+        "lastname": "Barton",
+        "birthday": "1988-05-10T18:09:09.125Z",
+        "phone": "016087987645",
+        "job": "busfahrer",
+        "verdienst": 617674,
+        "selfemployed": false,
+        "workedwith": false
+    },
+    {
+        "firstname": "Moon",
+        "lastname": "Blanchard",
+        "birthday": "1988-12-24T04:20:11.210Z",
+        "phone": "01736374893",
+        "job": "stifthalter",
+        "verdienst": 232208,
+        "selfemployed": true,
+        "workedwith": true
+    },
+    {
+        "firstname": "Powell",
+        "lastname": "Snow",
+        "birthday": "1984-01-02T00:35:40.163Z",
+        "phone": "0177454536",
+        "job": "super held",
+        "verdienst": 182779,
+        "selfemployed": false,
+        "workedwith": false
+    },
+    {
+        "firstname": "Lane",
+        "lastname": "Brady",
+        "birthday": "2001-02-11T23:31:40.023Z",
+        "phone": "016087987645",
+        "job": "programmierer",
+        "verdienst": 96980,
+        "selfemployed": true,
+        "workedwith": false
+    },
+    {
+        "firstname": "Britt",
+        "lastname": "Bowers",
+        "birthday": "1975-11-26T19:46:12.719Z",
+        "phone": "0177454536",
+        "job": "stifthalter",
+        "verdienst": 456284,
+        "selfemployed": false,
+        "workedwith": true
+    },
+    {
+        "firstname": "Cecelia",
+        "lastname": "Quinn",
+        "birthday": "1994-10-28T17:20:40.430Z",
+        "phone": "0177454536",
+        "job": "programmierer",
+        "verdienst": 78701,
+        "selfemployed": true,
+        "workedwith": false
+    },
+    {
+        "firstname": "Jewell",
+        "lastname": "Hoover",
+        "birthday": "1990-06-21T05:15:16.763Z",
+        "phone": "016087987645",
+        "job": "millionaer",
+        "verdienst": 622063,
+        "selfemployed": false,
+        "workedwith": true
+    }
+]
