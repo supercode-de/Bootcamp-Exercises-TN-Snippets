@@ -218,7 +218,7 @@ const employees = [
         ],
     },
     {
-        name: Elaine,
+        name: "Elaine",
         attendance: [
             { date: "Fri Jan 04 2019", in: "08:20", out: "16:24" },
             { date: "Mon Jan 07 2019", in: "07:39", out: "17:04" },
