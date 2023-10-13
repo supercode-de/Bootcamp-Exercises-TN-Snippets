@@ -1,6 +1,6 @@
 // let person = {
 //     vorname: 'Anton',
-//     nachname: 'Nüssler',
+//     nachname: 'Fish',
 //     alter: 34,
 //     familienstand: 'ledig',
 //     groesse: '178cm',
