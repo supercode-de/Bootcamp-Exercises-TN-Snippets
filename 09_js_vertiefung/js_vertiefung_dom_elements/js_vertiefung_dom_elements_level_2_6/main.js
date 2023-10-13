@@ -5,7 +5,7 @@ let data = [
         width: 5616,
         height: 3744,
         url: "https://unsplash.com/photos/yC-Yzbqy7PY",
-        download_url: "https://picsum.photos/id/0/5616/3744"
+        download_url: "https://picsum.photos/id/0/200/200",
     },
     {
         id: "1",
@@ -13,7 +13,7 @@ let data = [
         width: 5616,
         height: 3744,
         url: "https://unsplash.com/photos/LNRyGwIJr5c",
-        download_url: "https://picsum.photos/id/1/5616/3744"
+        download_url: "https://picsum.photos/id/1/200/200",
     },
     {
         id: "10",
@@ -21,7 +21,7 @@ let data = [
         width: 2500,
         height: 1667,
         url: "https://unsplash.com/photos/6J--NXulQCs",
-        download_url: "https://picsum.photos/id/10/2500/1667"
+        download_url: "https://picsum.photos/id/10/200/200",
     },
     {
         id: "100",
@@ -29,23 +29,7 @@ let data = [
         width: 2500,
         height: 1656,
         url: "https://unsplash.com/photos/pwaaqfoMibI",
-        download_url: "https://picsum.photos/id/100/2500/1656"
-    },
-    {
-        id: "1000",
-        author: "Lukas Budimaier",
-        width: 5626,
-        height: 3635,
-        url: "https://unsplash.com/photos/6cY-FvMlmkQ",
-        download_url: "https://picsum.photos/id/1000/5626/3635"
-    },
-    {
-        id: "1001",
-        author: "Danielle MacInnes",
-        width: 5616,
-        height: 3744,
-        url: "https://unsplash.com/photos/1DkWWN1dr-s",
-        download_url: "https://picsum.photos/id/1001/5616/3744"
+        download_url: "https://picsum.photos/id/100/200/200",
     },
     {
         id: "1002",
@@ -53,7 +37,7 @@ let data = [
         width: 4312,
         height: 2868,
         url: "https://unsplash.com/photos/6-jTZysYY_U",
-        download_url: "https://picsum.photos/id/1002/4312/2868"
+        download_url: "https://picsum.photos/id/1002/200/200",
     },
     {
         id: "1003",
@@ -61,7 +45,7 @@ let data = [
         width: 1181,
         height: 1772,
         url: "https://unsplash.com/photos/GYumuBnTqKc",
-        download_url: "https://picsum.photos/id/1003/1181/1772"
+        download_url: "https://picsum.photos/id/1003/200/200",
     },
     {
         id: "1004",
@@ -69,7 +53,7 @@ let data = [
         width: 5616,
         height: 3744,
         url: "https://unsplash.com/photos/SSxIGsySh8o",
-        download_url: "https://picsum.photos/id/1004/5616/3744"
+        download_url: "https://picsum.photos/id/1004/200/200",
     },
     {
         id: "1005",
@@ -77,7 +61,7 @@ let data = [
         width: 5760,
         height: 3840,
         url: "https://unsplash.com/photos/tBtuxtLvAZs",
-        download_url: "https://picsum.photos/id/1005/5760/3840"
+        download_url: "https://picsum.photos/id/1005/200/200",
     },
     {
         id: "1006",
@@ -85,15 +69,7 @@ let data = [
         width: 3000,
         height: 2000,
         url: "https://unsplash.com/photos/-wWRHIUklxM",
-        download_url: "https://picsum.photos/id/1006/3000/2000"
-    },
-    {
-        id: "1008",
-        author: "Benjamin Combs",
-        width: 5616,
-        height: 3744,
-        url: "https://unsplash.com/photos/5L4XAgMSno0",
-        download_url: "https://picsum.photos/id/1008/5616/3744"
+        download_url: "https://picsum.photos/id/1006/200/200",
     },
     {
         id: "1009",
@@ -101,7 +77,7 @@ let data = [
         width: 5000,
         height: 7502,
         url: "https://unsplash.com/photos/CMWRIzyMKZk",
-        download_url: "https://picsum.photos/id/1009/5000/7502"
+        download_url: "https://picsum.photos/id/1009/200/200",
     },
     {
         id: "101",
@@ -109,7 +85,7 @@ let data = [
         width: 2621,
         height: 1747,
         url: "https://unsplash.com/photos/8lMhzUjD1Wk",
-        download_url: "https://picsum.photos/id/101/2621/1747"
+        download_url: "https://picsum.photos/id/101/200/200",
     },
     {
         id: "1010",
@@ -117,7 +93,7 @@ let data = [
         width: 5184,
         height: 3456,
         url: "https://unsplash.com/photos/NaWKMlp3tVs",
-        download_url: "https://picsum.photos/id/1010/5184/3456"
+        download_url: "https://picsum.photos/id/1010/200/200",
     },
     {
         id: "1011",
@@ -125,7 +101,7 @@ let data = [
         width: 5472,
         height: 3648,
         url: "https://unsplash.com/photos/7BjmDICVloE",
-        download_url: "https://picsum.photos/id/1011/5472/3648"
+        download_url: "https://picsum.photos/id/1011/200/200",
     },
     {
         id: "1012",
@@ -133,7 +109,7 @@ let data = [
         width: 3973,
         height: 2639,
         url: "https://unsplash.com/photos/uAgLGG1WBd4",
-        download_url: "https://picsum.photos/id/1012/3973/2639"
+        download_url: "https://picsum.photos/id/1012/200/200",
     },
     {
         id: "1013",
@@ -141,7 +117,7 @@ let data = [
         width: 4256,
         height: 2832,
         url: "https://unsplash.com/photos/D8LcRLwZyPs",
-        download_url: "https://picsum.photos/id/1013/4256/2832"
+        download_url: "https://picsum.photos/id/1013/200/200",
     },
     {
         id: "1014",
@@ -149,7 +125,7 @@ let data = [
         width: 6016,
         height: 4000,
         url: "https://unsplash.com/photos/AmPRUnRb6N0",
-        download_url: "https://picsum.photos/id/1014/6016/4000"
+        download_url: "https://picsum.photos/id/1014/200/200",
     },
     {
         id: "1015",
@@ -157,7 +133,7 @@ let data = [
         width: 6000,
         height: 4000,
         url: "https://unsplash.com/photos/-oWyJoSqBRM",
-        download_url: "https://picsum.photos/id/1015/6000/4000"
+        download_url: "https://picsum.photos/id/1015/200/200",
     },
     {
         id: "1016",
@@ -165,7 +141,7 @@ let data = [
         width: 3844,
         height: 2563,
         url: "https://unsplash.com/photos/_h7aBovKia4",
-        download_url: "https://picsum.photos/id/1016/3844/2563"
+        download_url: "https://picsum.photos/id/1016/200/200",
     },
     {
         id: "1018",
@@ -173,7 +149,7 @@ let data = [
         width: 3914,
         height: 2935,
         url: "https://unsplash.com/photos/Kt5hRENuotI",
-        download_url: "https://picsum.photos/id/1018/3914/2935"
+        download_url: "https://picsum.photos/id/1018/200/200",
     },
     {
         id: "1019",
@@ -181,7 +157,7 @@ let data = [
         width: 5472,
         height: 3648,
         url: "https://unsplash.com/photos/V6s1cmE39XM",
-        download_url: "https://picsum.photos/id/1019/5472/3648"
+        download_url: "https://picsum.photos/id/1019/200/200",
     },
     {
         id: "102",
@@ -189,7 +165,7 @@ let data = [
         width: 4320,
         height: 3240,
         url: "https://unsplash.com/photos/pJILiyPdrXI",
-        download_url: "https://picsum.photos/id/102/4320/3240"
+        download_url: "https://picsum.photos/id/102/200/200",
     },
     {
         id: "1020",
@@ -197,7 +173,7 @@ let data = [
         width: 4288,
         height: 2848,
         url: "https://unsplash.com/photos/_snqARKTgoc",
-        download_url: "https://picsum.photos/id/1020/4288/2848"
+        download_url: "https://picsum.photos/id/1020/200/200",
     },
     {
         id: "1021",
@@ -205,7 +181,7 @@ let data = [
         width: 2048,
         height: 1206,
         url: "https://unsplash.com/photos/8BmNurlVR6M",
-        download_url: "https://picsum.photos/id/1021/2048/1206"
+        download_url: "https://picsum.photos/id/1021/200/200",
     },
     {
         id: "1022",
@@ -213,7 +189,7 @@ let data = [
         width: 6000,
         height: 3376,
         url: "https://unsplash.com/photos/bClr95glx6k",
-        download_url: "https://picsum.photos/id/1022/6000/3376"
+        download_url: "https://picsum.photos/id/1022/200/200",
     },
     {
         id: "1023",
@@ -221,15 +197,7 @@ let data = [
         width: 3955,
         height: 2094,
         url: "https://unsplash.com/photos/93Ep1dhTd2s",
-        download_url: "https://picsum.photos/id/1023/3955/2094"
-    },
-    {
-        id: "1024",
-        author: "Мартин Тасев",
-        width: 1920,
-        height: 1280,
-        url: "https://unsplash.com/photos/7ALI0RYyq6s",
-        download_url: "https://picsum.photos/id/1024/1920/1280"
+        download_url: "https://picsum.photos/id/1023/200/200",
     },
     {
         id: "1025",
@@ -237,6 +205,6 @@ let data = [
         width: 4951,
         height: 3301,
         url: "https://unsplash.com/photos/U5rMrSI7Pn4",
-        download_url: "https://picsum.photos/id/1025/4951/3301"
-    }
-]
+        download_url: "https://picsum.photos/id/1025/200/200",
+    },
+];
