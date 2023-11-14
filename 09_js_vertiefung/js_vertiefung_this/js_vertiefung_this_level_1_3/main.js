@@ -5,7 +5,7 @@ let personFunction = {
 };
 let personObjekt = {
     vorname: "Anton",
-    nachname: "Nüssler"
+    nachname: "Fish"
 };
 
 let anzeigeImHTMLDokument = `<p>${personFunction.fullName.call(personObjekt)}</p>`;
