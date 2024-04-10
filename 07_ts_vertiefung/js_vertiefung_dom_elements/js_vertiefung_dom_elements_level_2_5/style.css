@@ -1,0 +1,23 @@
+body {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    table {
+        background-color: #00918e;
+        border-radius: 5px;
+        padding: 10px;
+        color: white;
+    }
+
+    #example td {
+        background-color: #4dd599;
+        height: 20px;
+        width: 20px;
+    }
+
+    #result td {
+        background-color: #ffdc34;
+        color: #110133;
+        height: 20px;
+        width: 20px;
+    }

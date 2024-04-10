@@ -1,0 +1,21 @@
+body {
+    font-family: 'Karla', sans-serif;
+}
+
+button {
+    background-color: #035aa6;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+.wrapper {
+    max-width: 500px;
+}
+div {
+    border-radius: 5px;
+}
