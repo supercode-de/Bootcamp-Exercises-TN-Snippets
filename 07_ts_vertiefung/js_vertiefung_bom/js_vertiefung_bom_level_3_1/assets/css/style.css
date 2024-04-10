@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Press Start 2P', cursive;
+}
+
+#backscene {
+    height: 100vh;
+    background: url("../img/background.jpeg") no-repeat center/cover;
+    position: relative;
+}
+
+#cat {
+    width: 300px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+button {
+    font-family: "Press Start 2P", cursive;
+    text-transform: uppercase;
+    background-color: #26a69a;
+    color: rgb(230, 165, 3);
+    width: 165px;
+    height: 37px;
+    font-size: 12px;
+    line-height: 32.5px;
+}
