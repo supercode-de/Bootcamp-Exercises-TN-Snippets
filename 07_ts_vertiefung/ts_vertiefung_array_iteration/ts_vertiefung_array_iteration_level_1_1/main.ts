@@ -1,4 +1,4 @@
-let getraenke = [
+let getraenke: string[] = [
     "Coca-Cola",
     "Apfelsaft",
     "Pepsi",
@@ -7,4 +7,4 @@ let getraenke = [
     "Orangensaft",
     "Red Bull Energy Drink",
     "Fanta"
-]
+];
