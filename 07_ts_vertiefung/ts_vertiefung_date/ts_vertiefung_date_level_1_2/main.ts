@@ -1,4 +1,4 @@
-let list = [
+let monate: string[] = [
     "Januar",
     "Februar",
     "März",
@@ -11,4 +11,14 @@ let list = [
     "Oktober",
     "November",
     "Dezember"
+];
+
+let wochenTag: string[] = [
+    "Sonntag",
+    "Montag",
+    "Dienstag",
+    "Mittwoch",
+    "Donnerstag",
+    "Freitag",
+    "Samstag"
 ];
