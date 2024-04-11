@@ -1,4 +1,4 @@
-let languages = [
+let codingLanguages: string[] = [
     "JavaScript",
     "Python",
     "Java",
