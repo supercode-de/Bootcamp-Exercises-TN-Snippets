@@ -1,4 +1,4 @@
-const employees = [
+const employees: { name: string, attendance: { date: string, in: string, out: string }[] }[] = [
     {
         name: "Georg",
         attendance: [
