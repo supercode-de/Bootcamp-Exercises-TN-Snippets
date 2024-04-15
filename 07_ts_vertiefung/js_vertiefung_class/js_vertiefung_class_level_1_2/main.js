@@ -1,4 +1,0 @@
-class Person {
-    constructor() { }
-    info() { }
-}
