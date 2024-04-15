@@ -1,4 +1,4 @@
-let data = [
+let data: { id: string, author: string, width: number, height: number, url: string, download_url: string }[] = [
     {
         id: "0",
         author: "Alejandro Escamilla",
