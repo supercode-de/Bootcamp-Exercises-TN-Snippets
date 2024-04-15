@@ -1,1 +1,0 @@
-let string = "Peter Piper picked a peck of pickled peppers. How many pickled peppers did Peter Piper pick?";

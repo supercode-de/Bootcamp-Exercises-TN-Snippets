@@ -1,0 +1,1 @@
+let sentence: string = `I love cookies.`;
