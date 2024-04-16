@@ -1,4 +1,4 @@
-let array = [
+let array: number[] = [
     3.14,
     193.4464,
     0.8596433607,
