@@ -1,4 +1,12 @@
-let myMusic = [
+type Music = {
+    kunstler: string;
+    title: string;
+    release_jahr: number;
+    formate: string[];
+    gold: boolean;
+};
+
+let myMusicOne: Music[] = [
     {
         kunstler: "The Beatles",
         title: "Abbey Road",

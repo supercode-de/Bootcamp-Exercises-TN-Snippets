@@ -1,4 +1,18 @@
-let studentData = [
+type Address = {
+    street: string;
+    city: string;
+    postalCode: string;
+};
+
+type Student = {
+    name: string;
+    age: number;
+    coop: boolean;
+    address: Address;
+    emails: string[];
+};
+
+let studentData: Student[] = [
     {
         name: "Alex",
         age: 23,
