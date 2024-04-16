@@ -1,4 +1,17 @@
-const singers = [
+type PeriodActiveOne = {
+    start: number;
+    end: number | string;
+    extra?: number;
+};
+
+type SingerOne = {
+    name: string;
+    country: string;
+    period_active: PeriodActive;
+    genre: string;
+};
+
+const singersNew: Singer[] = [
     { name: 'The Beatles', country: 'United Kingdom', period_active: { start: 1960, end: 1970 }, genre: "Rock / Pop" },
     { name: 'Elvis Presley', country: 'United States', period_active: { start: 1954, end: 1977 }, genre: "Rock and roll" },
     { name: 'Michael Jackson', country: 'United States', period_active: { start: 1964, end: 2009 }, genre: "Pop / Rock / Dance / Soul / R&B" },

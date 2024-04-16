@@ -1,7 +1,11 @@
-let unsereHaustiere = [
+type Pet = {
+    tiertyp: string;
+    names: string[];
+};
+
+let unsereHaustiere: Pet[] = [
     {
         tiertyp: "Katze",
-
         names: [
             "Gipsy",
             "Nala",

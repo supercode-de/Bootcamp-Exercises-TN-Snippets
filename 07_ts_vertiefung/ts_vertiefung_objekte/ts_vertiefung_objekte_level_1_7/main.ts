@@ -1,4 +1,12 @@
-let myMusic = [
+type Music = {
+    artist: string;
+    title: string;
+    release_year: number;
+    medium: string[];
+    gold: boolean;
+};
+
+let myMusic: Music[] = [
     {
         artist: "The Beatles",
         title: "Abbey Road",
