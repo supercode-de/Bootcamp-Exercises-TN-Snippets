@@ -1,4 +1,9 @@
-let morseAlphabet = [
+type MorseAlphabetItem = {
+    letter: string;
+    morseCode: string;
+};
+
+let morseAlphabet: MorseAlphabetItem[] = [
     { letter: "1", morseCode: ".----" },
     { letter: "2", morseCode: "..---" },
     { letter: "3", morseCode: "...--" },
