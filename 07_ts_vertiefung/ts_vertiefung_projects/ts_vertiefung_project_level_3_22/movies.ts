@@ -1,4 +1,13 @@
-const movies = [
+type Movie = [
+    title: string,
+    year: string,
+    director: string,
+    duration: string,
+    genres: string[],
+    rating: string
+];
+
+const movies: Movie[] = [
     [
         'The Shawshank Redemption',
         '1994',
