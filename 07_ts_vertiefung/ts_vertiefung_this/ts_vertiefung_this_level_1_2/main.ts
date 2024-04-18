@@ -5,8 +5,8 @@
 //     familienstand: 'ledig',
 //     groesse: '178cm',
 //     profil: function () {
-//         return this...;
-// }
+//         return `Vorname: ${this.vorname}, Nachname: ${this.nachname}, Alter: ${this.alter}, Familienstand: ${this.familienstand}, Größe: ${this.groesse}`;
+//     }
 // };
-// //gib das Profil von Anton mit diesem Code im Element mit der "person" aus.
+
 // document.getElementById("person").innerHTML = person.profil();
