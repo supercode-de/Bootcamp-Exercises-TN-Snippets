@@ -1,6 +1,6 @@
 let personFunction = {
-    fullName: function () {
-        return vorname + " " + nachname;
+    fullName: function (this: any) {
+        return this.vorname + " " + this.nachname;
     }
 };
 let personObjekt = {
