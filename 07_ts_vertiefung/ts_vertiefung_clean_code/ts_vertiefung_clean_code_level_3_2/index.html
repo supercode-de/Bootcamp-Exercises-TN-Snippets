@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Brutto-Netto-Rechner</title>
+    <script type="module" src="brutto-netto.ts"></script>
+  </head>
+  <body>
+    <h1>Brutto-Netto-Rechner</h1>
+    <form id="calculatorForm">
+      <label for="brutto">Bruttogehalt:</label>
+      <input type="number" id="brutto" name="brutto" required />
+      <br />
+      <label for="steuerklasse">Steuerklasse:</label>
+      <select id="steuerklasse" name="steuerklasse">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+      </select>
+      <br />
+      <button type="submit">Berechnen</button>
+    </form>
+
+    <div id="result"></div>
+  </body>
+</html>
