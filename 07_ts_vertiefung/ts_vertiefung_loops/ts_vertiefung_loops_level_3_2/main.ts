@@ -1,1 +1,1 @@
-let numArr: number[] = [5, 22, 15, 100, 55];
+let numbers: number[] = [5, 22, 15, 100, 55];

@@ -1,3 +1,6 @@
 function myFunction(): void {
-  (document.getElementById("test") as HTMLElement).style.color = "red";
+  const testElement = document.getElementById('test');
+  if (testElement) {
+    testElement.style.color = 'red';
+  }
 }

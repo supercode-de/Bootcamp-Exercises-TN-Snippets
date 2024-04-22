@@ -1,23 +1,15 @@
 type Pet = {
-    tiertyp: string;
-    names: string[];
+  tiertyp: string;
+  namen: string[];
 };
 
 let unsereHaustiere: Pet[] = [
-    {
-        tiertyp: "Katze",
-        names: [
-            "Gipsy",
-            "Nala",
-            "Dinky"
-        ]
-    },
-    {
-        tiertyp: "Hunde",
-        names: [
-            "Knöpfchen",
-            "Pinselchen",
-            "Droopy"
-        ]
-    }
+  {
+    tiertyp: 'Katze',
+    namen: ['Gipsy', 'Nala', 'Dinky']
+  },
+  {
+    tiertyp: 'Hunde',
+    namen: ['Knöpfchen', 'Pinselchen', 'Droopy']
+  }
 ];
