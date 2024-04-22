@@ -1,31 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TS-Vertiefung-Events-Level-3_1</title>
+  </head>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JS-Vertiefung-Events-Level-3_1</title>
-</head>
-
-<body>
-
+  <body>
     <h1>Meine dynamische Webseite</h1>
     <p id="demo">Wähle eine Farbe:</p>
     <p>
-        <button onclick="changeBackground('pink')">Rosa</button>
-        <button onclick="changeBackground('purple')">Lila</button>
-        <button onclick="changeBackground('orange')">Orange</button>
+      <button onclick="changeBackground('pink')">Rosa</button>
+      <button onclick="changeBackground('purple')">Lila</button>
+      <button onclick="changeBackground('orange')">Orange</button>
     </p>
     <p>
-        <input type="range" id="rot" value="255" min="0" max="255" onchange="changeHandle()" style="background:red">
-        Rot<br>
-        <input type="range" id="grun" value="255" min="0" max="255" onchange="changeHandle()" style="background:green">
-        Grün<br>
-        <input type="range" id="blau" value="255" min="0" max="255" onchange="changeHandle()" style="background:blue">
-        Blau
+      <input type="range" id="rot" value="255" min="0" max="255" onchange="changeHandle()" style="background: red" />
+      Rot<br />
+      <input type="range" id="grun" value="255" min="0" max="255" onchange="changeHandle()" style="background: green" />
+      Grün<br />
+      <input type="range" id="blau" value="255" min="0" max="255" onchange="changeHandle()" style="background: blue" />
+      Blau
     </p>
 
     <script type="module" src="hier deine datei einfügen"></script>
-</body>
-
+  </body>
 </html>
