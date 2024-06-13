@@ -1,4 +1,4 @@
-document.getElementById('startSimulation')!.addEventListener('click', () => {
+document.getElementById('startSimulation')?.addEventListener('click', () => {
   const ordersDiv = document.getElementById('orders')!;
   ordersDiv.innerHTML = '';
 
