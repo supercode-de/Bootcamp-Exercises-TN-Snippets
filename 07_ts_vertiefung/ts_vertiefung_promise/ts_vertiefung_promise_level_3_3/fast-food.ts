@@ -7,7 +7,7 @@ document.getElementById('startSimulation')?.addEventListener('click', () => {
   // createCustomerOrder(3, 'Wasser');
 });
 
-//  hier die Function einfügen, die Promises zurückgeben
+//  hier die einzelnen Functions einfügen, die jeweils ein Promise zurückgeben
 
 function processOrder(customerNumber: number, drink: string, customerDiv: HTMLDivElement) {
   // Promise.all([
