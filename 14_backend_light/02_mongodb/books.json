@@ -1,0 +1,1503 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": {
+      "firstName": "Harper",
+      "lastName": "Lee"
+    },
+    "isbn": "978-0-06-112008-4",
+    "publishDate": "1960-07-11",
+    "categories": ["Fiction", "Classics", "Historical"],
+    "pages": 281,
+    "publisher": "J.B. Lippincott & Co.",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.3 inches",
+      "depth": "0.7 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "1984",
+    "author": {
+      "firstName": "George",
+      "lastName": "Orwell"
+    },
+    "isbn": "978-0-452-28423-4",
+    "publishDate": "1949-06-08",
+    "categories": ["Fiction", "Dystopian", "Political"],
+    "pages": 328,
+    "publisher": "Secker & Warburg",
+    "language": "English",
+    "dimensions": {
+      "height": "7.8 inches",
+      "width": "5.1 inches",
+      "depth": "0.9 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": {
+      "firstName": "Douglas",
+      "lastName": "Adams"
+    },
+    "isbn": "978-0-345-39180-3",
+    "publishDate": "1979-10-12",
+    "categories": ["Science Fiction", "Comedy"],
+    "pages": 224,
+    "publisher": "Pan Books",
+    "language": "English",
+    "dimensions": {
+      "height": "7.5 inches",
+      "width": "4.8 inches",
+      "depth": "0.9 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "Mystery of the Lost City",
+    "author": {
+      "firstName": "Jane",
+      "lastName": "Smith"
+    },
+    "isbn": "978-1-234-56789-0",
+    "publishDate": "2023-04-22",
+    "categories": ["Mystery", "Adventure"],
+    "pages": 320,
+    "publisher": "Adventure Press",
+    "language": "English",
+    "dimensions": {
+      "height": "8.2 inches",
+      "width": "5.5 inches",
+      "depth": "1.0 inches"
+    },
+    "availableFormats": ["Hardcover", "E-book"]
+  },
+  {
+    "title": "The Galactic Odyssey",
+    "author": {
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    "isbn": "978-1-999-88888-8",
+    "publishDate": "2022-11-15",
+    "categories": ["Science Fiction", "Adventure"],
+    "pages": 400,
+    "publisher": "Future Books",
+    "language": "English",
+    "dimensions": {
+      "height": "9.0 inches",
+      "width": "6.0 inches",
+      "depth": "1.2 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book"]
+  },
+  {
+    "title": "The Forgotten Kingdom",
+    "author": {
+      "firstName": "Emily",
+      "lastName": "Brown"
+    },
+    "isbn": "978-1-567-89012-3",
+    "publishDate": "2021-06-30",
+    "categories": ["Fantasy", "Historical"],
+    "pages": 350,
+    "publisher": "Fantasy World",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.2 inches",
+      "depth": "1.0 inches"
+    },
+    "availableFormats": ["Hardcover", "E-book"]
+  },
+  {
+    "title": "The Time Traveler's Wife",
+    "author": {
+      "firstName": "Audrey",
+      "lastName": "Niffenegger"
+    },
+    "isbn": "978-0-15-101321-8",
+    "publishDate": "2003-01-01",
+    "categories": ["Fiction", "Romance", "Science Fiction"],
+    "pages": 546,
+    "publisher": "MacAdam/Cage Publishing",
+    "language": "English",
+    "dimensions": {
+      "height": "9.1 inches",
+      "width": "6.0 inches",
+      "depth": "1.5 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": {
+      "firstName": "J.D.",
+      "lastName": "Salinger"
+    },
+    "isbn": "978-0-316-76948-0",
+    "publishDate": "1951-07-16",
+    "categories": ["Fiction", "Classics", "Literary"],
+    "pages": 214,
+    "publisher": "Little, Brown and Company",
+    "language": "English",
+    "dimensions": {
+      "height": "8.2 inches",
+      "width": "5.5 inches",
+      "depth": "0.8 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Silent Patient",
+    "author": {
+      "firstName": "Alex",
+      "lastName": "Michaelides"
+    },
+    "isbn": "978-1-250-28820-8",
+    "publishDate": "2019-02-05",
+    "categories": ["Thriller", "Mystery"],
+    "pages": 336,
+    "publisher": "Celadon Books",
+    "language": "English",
+    "dimensions": {
+      "height": "8.5 inches",
+      "width": "5.5 inches",
+      "depth": "1.1 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": {
+      "firstName": "F. Scott",
+      "lastName": "Fitzgerald"
+    },
+    "isbn": "978-0-7432-7356-5",
+    "publishDate": "1925-04-10",
+    "categories": ["Fiction", "Classics"],
+    "pages": 180,
+    "publisher": "Charles Scribner's Sons",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.5 inches",
+      "depth": "0.7 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": {
+      "firstName": "Stephen",
+      "lastName": "Hawking"
+    },
+    "isbn": "978-0-553-17521-9",
+    "publishDate": "1988-03-01",
+    "categories": ["Non-Fiction", "Science"],
+    "pages": 256,
+    "publisher": "Bantam Dell Publishing Group",
+    "language": "English",
+    "dimensions": {
+      "height": "9.0 inches",
+      "width": "6.0 inches",
+      "depth": "0.9 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": {
+      "firstName": "Dan",
+      "lastName": "Brown"
+    },
+    "isbn": "978-0-385-50420-8",
+    "publishDate": "2003-03-18",
+    "categories": ["Thriller", "Mystery"],
+    "pages": 454,
+    "publisher": "Doubleday",
+    "language": "English",
+    "dimensions": {
+      "height": "9.0 inches",
+      "width": "6.0 inches",
+      "depth": "1.3 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": {
+      "firstName": "Jane",
+      "lastName": "Austen"
+    },
+    "isbn": "978-0-14-143951-8",
+    "publishDate": "1813-01-28",
+    "categories": ["Fiction", "Classics", "Romance"],
+    "pages": 279,
+    "publisher": "T. Egerton",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.2 inches",
+      "depth": "0.9 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "author": {
+      "firstName": "J.R.R.",
+      "lastName": "Tolkien"
+    },
+    "isbn": "978-0-618-00222-8",
+    "publishDate": "1954-07-29",
+    "categories": ["Fantasy", "Adventure"],
+    "pages": 423,
+    "publisher": "George Allen & Unwin",
+    "language": "English",
+    "dimensions": {
+      "height": "8.5 inches",
+      "width": "5.5 inches",
+      "depth": "1.2 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Alchemist",
+    "author": {
+      "firstName": "Paulo",
+      "lastName": "Coelho"
+    },
+    "isbn": "978-0-06-112241-5",
+    "publishDate": "1988-05-01",
+    "categories": ["Fiction", "Adventure"],
+    "pages": 208,
+    "publisher": "HarperOne",
+    "language": "English",
+    "dimensions": {
+      "height": "7.8 inches",
+      "width": "5.2 inches",
+      "depth": "0.7 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Secret Garden",
+    "author": {
+      "firstName": "Frances",
+      "lastName": "Hodgson Burnett"
+    },
+    "isbn": "978-1-85326-261-4",
+    "publishDate": "1911-08-01",
+    "categories": ["Fiction", "Children's"],
+    "pages": 331,
+    "publisher": "Heinemann",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.5 inches",
+      "depth": "0.9 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book"]
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": {
+      "firstName": "Yuval",
+      "lastName": "Noah Harari"
+    },
+    "isbn": "978-0062316110",
+    "publishDate": "2015-02-10",
+    "categories": ["Non-Fiction", "History"],
+    "pages": 443,
+    "publisher": "Harper",
+    "language": "English",
+    "dimensions": {
+      "height": "9.1 inches",
+      "width": "6.0 inches",
+      "depth": "1.3 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Maze Runner",
+    "author": {
+      "firstName": "James",
+      "lastName": "Dashner"
+    },
+    "isbn": "978-0-385-73794-4",
+    "publishDate": "2009-10-06",
+    "categories": ["Young Adult", "Science Fiction"],
+    "pages": 374,
+    "publisher": "Delacorte Press",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.5 inches",
+      "depth": "1.0 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Shadow of the Wind",
+    "author": {
+      "firstName": "Carlos",
+      "lastName": "Ruiz Zafón"
+    },
+    "isbn": "978-0143034902",
+    "publishDate": "2004-03-01",
+    "categories": ["Fiction", "Historical", "Mystery"],
+    "pages": 487,
+    "publisher": "Penguin Books",
+    "language": "English",
+    "dimensions": {
+      "height": "9.0 inches",
+      "width": "6.0 inches",
+      "depth": "1.2 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "Dune",
+    "author": {
+      "firstName": "Frank",
+      "lastName": "Herbert"
+    },
+    "isbn": "978-0441013593",
+    "publishDate": "1965-08-01",
+    "categories": ["Science Fiction", "Epic"],
+    "pages": 412,
+    "publisher": "Chilton Books",
+    "language": "English",
+    "dimensions": {
+      "height": "8.5 inches",
+      "width": "5.5 inches",
+      "depth": "1.0 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "A Game of Thrones",
+    "author": {
+      "firstName": "George R.R.",
+      "lastName": "Martin"
+    },
+    "isbn": "978-0553103540",
+    "publishDate": "1996-08-06",
+    "categories": ["Fantasy", "Epic"],
+    "pages": 694,
+    "publisher": "Bantam Books",
+    "language": "English",
+    "dimensions": {
+      "height": "9.0 inches",
+      "width": "6.0 inches",
+      "depth": "1.5 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Hunger Games",
+    "author": {
+      "firstName": "Suzanne",
+      "lastName": "Collins"
+    },
+    "isbn": "978-0-439-02352-8",
+    "publishDate": "2008-09-14",
+    "categories": ["Young Adult", "Dystopian"],
+    "pages": 374,
+    "publisher": "Scholastic Press",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.5 inches",
+      "depth": "1.0 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Book Thief",
+    "author": {
+      "firstName": "Markus",
+      "lastName": "Zusak"
+    },
+    "isbn": "978-0375842207",
+    "publishDate": "2005-09-01",
+    "categories": ["Fiction", "Historical"],
+    "pages": 552,
+    "publisher": "Alfred A. Knopf",
+    "language": "English",
+    "dimensions": {
+      "height": "9.0 inches",
+      "width": "6.0 inches",
+      "depth": "1.4 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Little Prince",
+    "author": {
+      "firstName": "Antoine de",
+      "lastName": "Saint-Exupéry"
+    },
+    "isbn": "978-0156013987",
+    "publishDate": "1943-04-06",
+    "categories": ["Children's", "Fiction"],
+    "pages": 96,
+    "publisher": "Harcourt Brace",
+    "language": "English",
+    "dimensions": {
+      "height": "7.0 inches",
+      "width": "5.0 inches",
+      "depth": "0.5 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": {
+      "firstName": "Stieg",
+      "lastName": "Larsson"
+    },
+    "isbn": "978-0307454546",
+    "publishDate": "2005-08-01",
+    "categories": ["Thriller", "Mystery"],
+    "pages": 465,
+    "publisher": "Norstedts Förlag",
+    "language": "English",
+    "dimensions": {
+      "height": "8.5 inches",
+      "width": "5.5 inches",
+      "depth": "1.2 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Shining",
+    "author": {
+      "firstName": "Stephen",
+      "lastName": "King"
+    },
+    "isbn": "978-0307743657",
+    "publishDate": "1977-01-28",
+    "categories": ["Horror", "Thriller"],
+    "pages": 447,
+    "publisher": "Doubleday",
+    "language": "English",
+    "dimensions": {
+      "height": "8.5 inches",
+      "width": "5.5 inches",
+      "depth": "1.2 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": {
+      "firstName": "Dan",
+      "lastName": "Brown"
+    },
+    "isbn": "978-0-385-50420-8",
+    "publishDate": "2003-03-18",
+    "categories": ["Thriller", "Mystery"],
+    "pages": 454,
+    "publisher": "Doubleday",
+    "language": "English",
+    "dimensions": {
+      "height": "9.0 inches",
+      "width": "6.0 inches",
+      "depth": "1.3 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "A Clash of Kings",
+    "author": {
+      "firstName": "George R.R.",
+      "lastName": "Martin"
+    },
+    "isbn": "978-0553108035",
+    "publishDate": "1999-11-16",
+    "categories": ["Fantasy", "Epic"],
+    "pages": 768,
+    "publisher": "Bantam Books",
+    "language": "English",
+    "dimensions": {
+      "height": "9.0 inches",
+      "width": "6.0 inches",
+      "depth": "1.5 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": {
+      "firstName": "Margaret",
+      "lastName": "Atwood"
+    },
+    "isbn": "978-0385490818",
+    "publishDate": "1985-09-01",
+    "categories": ["Dystopian", "Fiction"],
+    "pages": 311,
+    "publisher": "Anchor Books",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.5 inches",
+      "depth": "1.0 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "Brave New World",
+    "author": {
+      "firstName": "Aldous",
+      "lastName": "Huxley"
+    },
+    "isbn": "978-0060850524",
+    "publishDate": "1932-08-01",
+    "categories": ["Dystopian", "Science Fiction"],
+    "pages": 311,
+    "publisher": "Chatto & Windus",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.5 inches",
+      "depth": "1.0 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Road",
+    "author": {
+      "firstName": "Cormac",
+      "lastName": "McCarthy"
+    },
+    "isbn": "978-0307387899",
+    "publishDate": "2006-09-26",
+    "categories": ["Fiction", "Post-Apocalyptic"],
+    "pages": 287,
+    "publisher": "Alfred A. Knopf",
+    "language": "English",
+    "dimensions": {
+      "height": "8.5 inches",
+      "width": "5.5 inches",
+      "depth": "1.0 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Outsiders",
+    "author": {
+      "firstName": "S.E.",
+      "lastName": "Hinton"
+    },
+    "isbn": "978-0142407332",
+    "publishDate": "1967-04-01",
+    "categories": ["Young Adult", "Fiction"],
+    "pages": 192,
+    "publisher": "Viking Press",
+    "language": "English",
+    "dimensions": {
+      "height": "7.8 inches",
+      "width": "5.2 inches",
+      "depth": "0.6 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book"]
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": {
+      "firstName": "Oscar",
+      "lastName": "Wilde"
+    },
+    "isbn": "978-0486264788",
+    "publishDate": "1890-07-01",
+    "categories": ["Fiction", "Classics"],
+    "pages": 254,
+    "publisher": "Dover Publications",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.5 inches",
+      "depth": "0.8 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book"]
+  },
+  {
+    "title": "The Witcher: The Last Wish",
+    "author": {
+      "firstName": "Andrzej",
+      "lastName": "Sapkowski"
+    },
+    "isbn": "978-0316389683",
+    "publishDate": "1993-01-01",
+    "categories": ["Fantasy", "Adventure"],
+    "pages": 278,
+    "publisher": "SuperNOWA",
+    "language": "English",
+    "dimensions": {
+      "height": "8.5 inches",
+      "width": "5.5 inches",
+      "depth": "1.1 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book"]
+  },
+  {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "author": {
+      "firstName": "C.S.",
+      "lastName": "Lewis"
+    },
+    "isbn": "978-0064471190",
+    "publishDate": "1950-10-16",
+    "categories": ["Fantasy", "Children's"],
+    "pages": 208,
+    "publisher": "Geoffrey Bles",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.5 inches",
+      "depth": "1.0 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Bell Jar",
+    "author": {
+      "firstName": "Sylvia",
+      "lastName": "Plath"
+    },
+    "isbn": "978-0060837020",
+    "publishDate": "1963-01-14",
+    "categories": ["Fiction", "Classic"],
+    "pages": 288,
+    "publisher": "Harper & Row",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.5 inches",
+      "depth": "1.0 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Light We Lost",
+    "author": {
+      "firstName": "Jill",
+      "lastName": "Santopolo"
+    },
+    "isbn": "978-0399563940",
+    "publishDate": "2017-05-09",
+    "categories": ["Fiction", "Romance"],
+    "pages": 368,
+    "publisher": "Putnam",
+    "language": "English",
+    "dimensions": {
+      "height": "8.2 inches",
+      "width": "5.5 inches",
+      "depth": "1.2 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "Never Let Me Go",
+    "author": {
+      "firstName": "Kazuo",
+      "lastName": "Ishiguro"
+    },
+    "isbn": "978-1400078776",
+    "publishDate": "2005-03-01",
+    "categories": ["Science Fiction", "Dystopian"],
+    "pages": 288,
+    "publisher": "Knopf",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.5 inches",
+      "depth": "1.0 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "author": {
+      "firstName": "Delia",
+      "lastName": "Owens"
+    },
+    "isbn": "978-0735219090",
+    "publishDate": "2018-08-14",
+    "categories": ["Fiction", "Mystery"],
+    "pages": 368,
+    "publisher": "G.P. Putnam's Sons",
+    "language": "English",
+    "dimensions": {
+      "height": "9.0 inches",
+      "width": "6.0 inches",
+      "depth": "1.2 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": {
+      "firstName": "Paula",
+      "lastName": "Hawkins"
+    },
+    "isbn": "978-1594634024",
+    "publishDate": "2015-01-13",
+    "categories": ["Thriller", "Mystery"],
+    "pages": 336,
+    "publisher": "Riverhead Books",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.5 inches",
+      "depth": "1.1 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "Big Little Lies",
+    "author": {
+      "firstName": "Liane",
+      "lastName": "Moriarty"
+    },
+    "isbn": "978-0399167063",
+    "publishDate": "2014-07-29",
+    "categories": ["Fiction", "Mystery"],
+    "pages": 460,
+    "publisher": "G.P. Putnam's Sons",
+    "language": "English",
+    "dimensions": {
+      "height": "8.1 inches",
+      "width": "5.5 inches",
+      "depth": "1.4 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Silent Patient",
+    "author": {
+      "firstName": "Alex",
+      "lastName": "Michaelides"
+    },
+    "isbn": "978-1250301697",
+    "publishDate": "2019-02-05",
+    "categories": ["Thriller", "Psychological"],
+    "pages": 336,
+    "publisher": "Celadon Books",
+    "language": "English",
+    "dimensions": {
+      "height": "8.2 inches",
+      "width": "5.5 inches",
+      "depth": "1.3 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Night Circus",
+    "author": {
+      "firstName": "Erin",
+      "lastName": "Morgenstern"
+    },
+    "isbn": "978-0385534635",
+    "publishDate": "2011-09-13",
+    "categories": ["Fantasy", "Romance"],
+    "pages": 387,
+    "publisher": "Doubleday",
+    "language": "English",
+    "dimensions": {
+      "height": "8.5 inches",
+      "width": "5.8 inches",
+      "depth": "1.3 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "Eleanor Oliphant Is Completely Fine",
+    "author": {
+      "firstName": "Gail",
+      "lastName": "Honeyman"
+    },
+    "isbn": "978-0735220683",
+    "publishDate": "2017-05-09",
+    "categories": ["Fiction", "Contemporary"],
+    "pages": 386,
+    "publisher": "Pamela Dorman Books",
+    "language": "English",
+    "dimensions": {
+      "height": "8.2 inches",
+      "width": "5.5 inches",
+      "depth": "1.3 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "Circe",
+    "author": {
+      "firstName": "Madeline",
+      "lastName": "Miller"
+    },
+    "isbn": "978-0316388686",
+    "publishDate": "2018-04-10",
+    "categories": ["Fantasy", "Mythology"],
+    "pages": 393,
+    "publisher": "Little, Brown and Company",
+    "language": "English",
+    "dimensions": {
+      "height": "8.2 inches",
+      "width": "5.5 inches",
+      "depth": "1.4 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "Educated",
+    "author": {
+      "firstName": "Tara",
+      "lastName": "Westover"
+    },
+    "isbn": "978-0399590504",
+    "publishDate": "2018-02-20",
+    "categories": ["Memoir", "Non-Fiction"],
+    "pages": 334,
+    "publisher": "Random House",
+    "language": "English",
+    "dimensions": {
+      "height": "8.3 inches",
+      "width": "5.5 inches",
+      "depth": "1.3 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Goldfinch",
+    "author": {
+      "firstName": "Donna",
+      "lastName": "Tartt"
+    },
+    "isbn": "978-0316055437",
+    "publishDate": "2013-10-22",
+    "categories": ["Fiction", "Literary"],
+    "pages": 771,
+    "publisher": "Little, Brown and Company",
+    "language": "English",
+    "dimensions": {
+      "height": "9.0 inches",
+      "width": "6.0 inches",
+      "depth": "1.6 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Immortalists",
+    "author": {
+      "firstName": "Chloe",
+      "lastName": "Benjamin"
+    },
+    "isbn": "978-0399184518",
+    "publishDate": "2018-01-09",
+    "categories": ["Fiction", "Contemporary"],
+    "pages": 368,
+    "publisher": "G.P. Putnam's Sons",
+    "language": "English",
+    "dimensions": {
+      "height": "8.2 inches",
+      "width": "5.5 inches",
+      "depth": "1.4 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": {
+      "firstName": "Taylor",
+      "lastName": "Jenkins Reid"
+    },
+    "isbn": "978-1501139239",
+    "publishDate": "2017-06-13",
+    "categories": ["Fiction", "Historical"],
+    "pages": 400,
+    "publisher": "Atria Books",
+    "language": "English",
+    "dimensions": {
+      "height": "8.2 inches",
+      "width": "5.5 inches",
+      "depth": "1.4 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "Little Fires Everywhere",
+    "author": {
+      "firstName": "Celeste",
+      "lastName": "Ng"
+    },
+    "isbn": "978-0735224292",
+    "publishDate": "2017-09-12",
+    "categories": ["Fiction", "Literary"],
+    "pages": 338,
+    "publisher": "Penguin Press",
+    "language": "English",
+    "dimensions": {
+      "height": "8.3 inches",
+      "width": "5.5 inches",
+      "depth": "1.4 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Tattooist of Auschwitz",
+    "author": {
+      "firstName": "Heather",
+      "lastName": "Morris"
+    },
+    "isbn": "978-0062797152",
+    "publishDate": "2018-02-27",
+    "categories": ["Historical", "Fiction"],
+    "pages": 272,
+    "publisher": "Zaffre",
+    "language": "English",
+    "dimensions": {
+      "height": "8.1 inches",
+      "width": "5.5 inches",
+      "depth": "1.1 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Underground Railroad",
+    "author": {
+      "firstName": "Colson",
+      "lastName": "Whitehead"
+    },
+    "isbn": "978-0385542364",
+    "publishDate": "2016-08-02",
+    "categories": ["Historical", "Fiction"],
+    "pages": 306,
+    "publisher": "Doubleday",
+    "language": "English",
+    "dimensions": {
+      "height": "8.2 inches",
+      "width": "5.5 inches",
+      "depth": "1.2 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "Station Eleven",
+    "author": {
+      "firstName": "Emily",
+      "lastName": "St. John Mandel"
+    },
+    "isbn": "978-0385353304",
+    "publishDate": "2014-09-09",
+    "categories": ["Science Fiction", "Dystopian"],
+    "pages": 336,
+    "publisher": "Knopf",
+    "language": "English",
+    "dimensions": {
+      "height": "8.3 inches",
+      "width": "5.5 inches",
+      "depth": "1.3 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Last Thing He Told Me",
+    "author": {
+      "firstName": "Laura",
+      "lastName": "Dave"
+    },
+    "isbn": "978-1501171346",
+    "publishDate": "2021-05-04",
+    "categories": ["Thriller", "Mystery"],
+    "pages": 320,
+    "publisher": "Simon & Schuster",
+    "language": "English",
+    "dimensions": {
+      "height": "8.2 inches",
+      "width": "5.5 inches",
+      "depth": "1.4 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The House in the Cerulean Sea",
+    "author": {
+      "firstName": "TJ",
+      "lastName": "Klune"
+    },
+    "isbn": "978-1250217317",
+    "publishDate": "2020-09-01",
+    "categories": ["Fantasy", "Contemporary"],
+    "pages": 400,
+    "publisher": "Tor Books",
+    "language": "English",
+    "dimensions": {
+      "height": "8.2 inches",
+      "width": "5.5 inches",
+      "depth": "1.4 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Night Watchman",
+    "author": {
+      "firstName": "Louise",
+      "lastName": "Erdrich"
+    },
+    "isbn": "978-0062671198",
+    "publishDate": "2020-03-03",
+    "categories": ["Historical", "Fiction"],
+    "pages": 464,
+    "publisher": "HarperCollins",
+    "language": "English",
+    "dimensions": {
+      "height": "8.2 inches",
+      "width": "5.5 inches",
+      "depth": "1.5 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Vanishing Half",
+    "author": {
+      "firstName": "Brit",
+      "lastName": "Bennett"
+    },
+    "isbn": "978-0525536291",
+    "publishDate": "2020-06-02",
+    "categories": ["Fiction", "Contemporary"],
+    "pages": 343,
+    "publisher": "Riverhead Books",
+    "language": "English",
+    "dimensions": {
+      "height": "8.3 inches",
+      "width": "5.5 inches",
+      "depth": "1.4 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "Normal People",
+    "author": {
+      "firstName": "Sally",
+      "lastName": "Rooney"
+    },
+    "isbn": "978-1984822178",
+    "publishDate": "2018-08-28",
+    "categories": ["Fiction", "Contemporary"],
+    "pages": 273,
+    "publisher": "Hogarth",
+    "language": "English",
+    "dimensions": {
+      "height": "8.2 inches",
+      "width": "5.5 inches",
+      "depth": "1.2 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Paris Library",
+    "author": {
+      "firstName": "Janet",
+      "lastName": "Skeslien Charles"
+    },
+    "isbn": "978-1982134204",
+    "publishDate": "2021-02-09",
+    "categories": ["Historical", "Fiction"],
+    "pages": 416,
+    "publisher": "Atria Books",
+    "language": "English",
+    "dimensions": {
+      "height": "8.3 inches",
+      "width": "5.5 inches",
+      "depth": "1.4 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The 5th Wave",
+    "author": {
+      "firstName": "Rick",
+      "lastName": "Yancey"
+    },
+    "isbn": "978-0399162414",
+    "publishDate": "2013-05-07",
+    "categories": ["Science Fiction", "Young Adult"],
+    "pages": 457,
+    "publisher": "Putnam Juvenile",
+    "language": "English",
+    "dimensions": {
+      "height": "8.2 inches",
+      "width": "5.5 inches",
+      "depth": "1.5 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Light We Lost",
+    "author": {
+      "firstName": "Jill",
+      "lastName": "Santopolo"
+    },
+    "isbn": "978-0399563940",
+    "publishDate": "2017-05-09",
+    "categories": ["Fiction", "Romance"],
+    "pages": 368,
+    "publisher": "Putnam",
+    "language": "English",
+    "dimensions": {
+      "height": "8.2 inches",
+      "width": "5.5 inches",
+      "depth": "1.2 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Nightingale",
+    "author": {
+      "firstName": "Kristin",
+      "lastName": "Hannah"
+    },
+    "isbn": "978-0316338318",
+    "publishDate": "2015-02-03",
+    "categories": ["Historical Fiction", "War"],
+    "pages": 440,
+    "publisher": "St. Martin's Press",
+    "language": "English",
+    "dimensions": {
+      "height": "8.2 inches",
+      "width": "5.5 inches",
+      "depth": "1.5 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "Dune",
+    "author": {
+      "firstName": "Frank",
+      "lastName": "Herbert"
+    },
+    "isbn": "978-0441013593",
+    "publishDate": "1965-08-01",
+    "categories": ["Science Fiction", "Classic"],
+    "pages": 412,
+    "publisher": "Chilton Books",
+    "language": "English",
+    "dimensions": {
+      "height": "8.5 inches",
+      "width": "5.8 inches",
+      "depth": "1.5 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "Goodnight Moon",
+    "author": {
+      "firstName": "Margaret",
+      "lastName": "Wise Brown"
+    },
+    "isbn": "978-0064430171",
+    "publishDate": "1947-09-01",
+    "categories": ["Children's", "Classic"],
+    "pages": 32,
+    "publisher": "HarperCollins",
+    "language": "English",
+    "dimensions": {
+      "height": "7.5 inches",
+      "width": "6.5 inches",
+      "depth": "0.3 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback"]
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": {
+      "firstName": "Agatha",
+      "lastName": "Christie"
+    },
+    "isbn": "978-0062693664",
+    "publishDate": "1934-01-01",
+    "categories": ["Mystery", "Classic"],
+    "pages": 256,
+    "publisher": "Collins Crime Club",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.5 inches",
+      "depth": "0.8 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book"]
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": {
+      "firstName": "J.D.",
+      "lastName": "Salinger"
+    },
+    "isbn": "978-0316769488",
+    "publishDate": "1951-07-16",
+    "categories": ["Classic", "Literary"],
+    "pages": 277,
+    "publisher": "Little, Brown and Company",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.5 inches",
+      "depth": "0.8 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book"]
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": {
+      "firstName": "Douglas",
+      "lastName": "Adams"
+    },
+    "isbn": "978-0345391803",
+    "publishDate": "1979-10-12",
+    "categories": ["Science Fiction", "Humor"],
+    "pages": 224,
+    "publisher": "Del Rey",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.5 inches",
+      "depth": "0.8 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Shining",
+    "author": {
+      "firstName": "Stephen",
+      "lastName": "King"
+    },
+    "isbn": "978-0307743657",
+    "publishDate": "1977-01-28",
+    "categories": ["Horror", "Thriller"],
+    "pages": 659,
+    "publisher": "Doubleday",
+    "language": "English",
+    "dimensions": {
+      "height": "8.2 inches",
+      "width": "5.5 inches",
+      "depth": "1.5 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": {
+      "firstName": "Dan",
+      "lastName": "Brown"
+    },
+    "isbn": "978-0307474278",
+    "publishDate": "2003-03-18",
+    "categories": ["Thriller", "Mystery"],
+    "pages": 454,
+    "publisher": "Doubleday",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.5 inches",
+      "depth": "1.3 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book", "Audiobook"]
+  },
+  {
+    "title": "Moby-Dick",
+    "author": {
+      "firstName": "Herman",
+      "lastName": "Melville"
+    },
+    "isbn": "978-1503280786",
+    "publishDate": "1851-10-18",
+    "categories": ["Classic", "Adventure"],
+    "pages": 585,
+    "publisher": "Harper & Brothers",
+    "language": "English",
+    "dimensions": {
+      "height": "8.5 inches",
+      "width": "5.5 inches",
+      "depth": "1.5 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book"]
+  },
+  {
+    "title": "Jane Eyre",
+    "author": {
+      "firstName": "Charlotte",
+      "lastName": "Brontë"
+    },
+    "isbn": "978-0486284736",
+    "publishDate": "1847-10-16",
+    "categories": ["Classic", "Romance"],
+    "pages": 528,
+    "publisher": "Dover Publications",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.0 inches",
+      "depth": "1.2 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book"]
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": {
+      "firstName": "Emily",
+      "lastName": "Brontë"
+    },
+    "isbn": "978-0486282565",
+    "publishDate": "1847-12-17",
+    "categories": ["Classic", "Gothic"],
+    "pages": 416,
+    "publisher": "Dover Publications",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.0 inches",
+      "depth": "1.1 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book"]
+  },
+  {
+    "title": "Frankenstein",
+    "author": {
+      "firstName": "Mary",
+      "lastName": "Shelley"
+    },
+    "isbn": "978-0486282114",
+    "publishDate": "1818-01-01",
+    "categories": ["Classic", "Science Fiction"],
+    "pages": 280,
+    "publisher": "Dover Publications",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.0 inches",
+      "depth": "0.8 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book"]
+  },
+  {
+    "title": "The Scarlet Letter",
+    "author": {
+      "firstName": "Nathaniel",
+      "lastName": "Hawthorne"
+    },
+    "isbn": "978-1505290172",
+    "publishDate": "1850-03-16",
+    "categories": ["Classic", "Historical Fiction"],
+    "pages": 272,
+    "publisher": "CreateSpace Independent Publishing Platform",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.0 inches",
+      "depth": "0.7 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book"]
+  },
+  {
+    "title": "Oliver Twist",
+    "author": {
+      "firstName": "Charles",
+      "lastName": "Dickens"
+    },
+    "isbn": "978-1503210746",
+    "publishDate": "1838-02-01",
+    "categories": ["Classic", "Literary"],
+    "pages": 304,
+    "publisher": "CreateSpace Independent Publishing Platform",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.0 inches",
+      "depth": "0.8 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book"]
+  },
+  {
+    "title": "David Copperfield",
+    "author": {
+      "firstName": "Charles",
+      "lastName": "Dickens"
+    },
+    "isbn": "978-1503218261",
+    "publishDate": "1850-05-01",
+    "categories": ["Classic", "Literary"],
+    "pages": 688,
+    "publisher": "CreateSpace Independent Publishing Platform",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.0 inches",
+      "depth": "1.2 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book"]
+  },
+  {
+    "title": "The Last of the Mohicans",
+    "author": {
+      "firstName": "James Fenimore",
+      "lastName": "Cooper"
+    },
+    "isbn": "978-1503219494",
+    "publishDate": "1826-01-01",
+    "categories": ["Classic", "Adventure"],
+    "pages": 343,
+    "publisher": "CreateSpace Independent Publishing Platform",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.0 inches",
+      "depth": "1.0 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book"]
+  },
+  {
+    "title": "The Mysteries of Udolpho",
+    "author": {
+      "firstName": "Ann",
+      "lastName": "Radcliffe"
+    },
+    "isbn": "978-1545305484",
+    "publishDate": "1794-01-01",
+    "categories": ["Classic", "Gothic Fiction"],
+    "pages": 724,
+    "publisher": "CreateSpace Independent Publishing Platform",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.0 inches",
+      "depth": "1.5 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book"]
+  },
+  {
+    "title": "The Vicar of Wakefield",
+    "author": {
+      "firstName": "Oliver",
+      "lastName": "Goldsmith"
+    },
+    "isbn": "978-1534801692",
+    "publishDate": "1766-01-01",
+    "categories": ["Classic", "Literary"],
+    "pages": 240,
+    "publisher": "CreateSpace Independent Publishing Platform",
+    "language": "English",
+    "dimensions": {
+      "height": "8.0 inches",
+      "width": "5.0 inches",
+      "depth": "0.7 inches"
+    },
+    "availableFormats": ["Hardcover", "Paperback", "E-book"]
+  }
+]
