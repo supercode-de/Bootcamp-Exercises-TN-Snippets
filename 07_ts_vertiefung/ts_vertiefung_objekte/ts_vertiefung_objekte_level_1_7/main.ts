@@ -6,7 +6,7 @@ type Music = {
   gold: boolean;
 };
 
-let myTopFour: Music[] = [
+const myTopFour: Music[] = [
   {
     artist: 'The Beatles',
     title: 'Abbey Road',

@@ -1,4 +1,4 @@
-let album: string[] = [
+const album: string[] = [
     "holidays.jpg",
     "Restaurant.jpg",
     "desktop",

@@ -1,4 +1,4 @@
-let months: string[] = [
+const months: string[] = [
   'Januar',
   'Februar',
   'März',

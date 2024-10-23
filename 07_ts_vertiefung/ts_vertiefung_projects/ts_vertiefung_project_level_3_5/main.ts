@@ -3,7 +3,7 @@ type MorseAlphabetItem = {
     morseCode: string;
 };
 
-let morseAlphabet: MorseAlphabetItem[] = [
+const morseAlphabet: MorseAlphabetItem[] = [
     { letter: "1", morseCode: ".----" },
     { letter: "2", morseCode: "..---" },
     { letter: "3", morseCode: "...--" },

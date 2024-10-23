@@ -1,1 +1,1 @@
-let fruits: string[] = ['🍇', '🍌', '🍒', '🍎']
+const fruits: string[] = ['🍇', '🍌', '🍒', '🍎']
