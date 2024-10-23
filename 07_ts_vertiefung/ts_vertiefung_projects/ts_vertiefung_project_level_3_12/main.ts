@@ -7,7 +7,7 @@ type QuizItem = {
   answer: string | boolean | number;
 };
 
-let mediumQuestions: QuizItem[] = [
+const mediumQuestions: QuizItem[] = [
   {
     url: 'https://cdn.playbuzz.com/cdn//f063e8fe-ad57-485e-8211-ed2ee0d9a205/4a864049-816a-479e-8736-51740e8b724b.jpg',
     question: 'Which ocean lies on the east coast of the United States?',

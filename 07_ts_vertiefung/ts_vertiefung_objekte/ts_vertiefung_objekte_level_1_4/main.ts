@@ -3,7 +3,7 @@ type Pet = {
   namen: string[];
 };
 
-let unsereHaustiere: Pet[] = [
+const unsereHaustiere: Pet[] = [
   {
     tiertyp: 'Katze',
     namen: ['Gipsy', 'Nala', 'Dinky']

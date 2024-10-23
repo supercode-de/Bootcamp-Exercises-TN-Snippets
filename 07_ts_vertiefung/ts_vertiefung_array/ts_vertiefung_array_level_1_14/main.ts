@@ -1,1 +1,1 @@
-let sentence: string = `I love cookies.`;
+const sentence: string = `I love cookies.`;

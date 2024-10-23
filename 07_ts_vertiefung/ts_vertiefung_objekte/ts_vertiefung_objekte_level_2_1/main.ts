@@ -4,7 +4,7 @@ type EdelmetallPreis = {
     veraenderung: string;
 };
 
-let edelMetallPreise: EdelmetallPreis[] = [
+const edelMetallPreise: EdelmetallPreis[] = [
     { name: "Gold", preiseGramEuro: 42.91, veraenderung: "+0.12%" },
     { name: "Silber", preiseGramEuro: 0.51, veraenderung: "+1.02%" },
     { name: "Platin", preiseGramEuro: 25.74, veraenderung: "+0.41%" },

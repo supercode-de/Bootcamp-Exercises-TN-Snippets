@@ -1,5 +1,5 @@
 type Picture = { id: string; author: string; width: number; height: number; url: string; download_url: string };
-let data: Picture[] = [
+const data: Picture[] = [
   {
     id: '0',
     author: 'Alejandro Escamilla',

@@ -11,7 +11,7 @@ type Lager = {
     };
 };
 
-let unserLager: Lager = {
+const unserLager: Lager = {
     schreibtisch: {
         schublade: "Hefter"
     },

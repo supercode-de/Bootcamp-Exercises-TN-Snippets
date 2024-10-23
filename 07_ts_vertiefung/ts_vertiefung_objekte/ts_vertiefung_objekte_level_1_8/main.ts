@@ -12,7 +12,7 @@ type Student = {
     emails: string[];
 };
 
-let studentData: Student[] = [
+const studentData: Student[] = [
     {
         name: "Alex",
         age: 23,

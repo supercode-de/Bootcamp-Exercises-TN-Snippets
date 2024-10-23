@@ -1,4 +1,4 @@
-let getraenke: string[] = [
+const getraenke: string[] = [
     "Coca-Cola",
     "Apfelsaft",
     "Pepsi",

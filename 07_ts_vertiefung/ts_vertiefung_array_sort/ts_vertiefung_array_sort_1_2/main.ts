@@ -1,4 +1,4 @@
-let codingLanguages: string[] = [
+const codingLanguages: string[] = [
     "JavaScript",
     "Python",
     "Java",

@@ -1,4 +1,4 @@
-let monate: string[] = [
+const monate: string[] = [
     "Januar",
     "Februar",
     "März",
@@ -13,7 +13,7 @@ let monate: string[] = [
     "Dezember"
 ];
 
-let wochenTag: string[] = [
+const wochenTag: string[] = [
     "Sonntag",
     "Montag",
     "Dienstag",
