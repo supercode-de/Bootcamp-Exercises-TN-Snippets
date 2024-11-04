@@ -1,4 +1,4 @@
-let getraenke = [
+const getraenke = [
     "Coca-Cola",
     "Apfelsaft",
     "Pepsi",
