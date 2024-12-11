@@ -10,19 +10,19 @@
     <h1>Meine dynamische Webseite</h1>
     <p id="demo">Wähle eine Farbe:</p>
     <p>
-      <button onclick="changeBackground('pink')">Rosa</button>
-      <button onclick="changeBackground('purple')">Lila</button>
-      <button onclick="changeBackground('orange')">Orange</button>
+      <button id="'pink-button">Rosa</button>
+      <button id="'purple-button">Lila</button>
+      <button id="'orange-button">Orange</button>
     </p>
     <p>
-      <input type="range" id="rot" value="255" min="0" max="255" onchange="changeHandle()" style="background: red" />
+      <input type="range" id="red-slider" value="255" min="0" max="255" style="background: red" />
       Rot<br />
-      <input type="range" id="grun" value="255" min="0" max="255" onchange="changeHandle()" style="background: green" />
+      <input type="range" id="green-slider" value="255" min="0" max="255" style="background: green" />
       Grün<br />
-      <input type="range" id="blau" value="255" min="0" max="255" onchange="changeHandle()" style="background: blue" />
+      <input type="range" id="blue-slider" value="255" min="0" max="255" style="background: blue" />
       Blau
     </p>
 
-    <script type="module" src="hier deine datei einfügen"></script>
+    <script type="module" src="./main.ts"></script>
   </body>
 </html>
