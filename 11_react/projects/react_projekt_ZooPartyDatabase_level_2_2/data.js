@@ -584,19 +584,6 @@ const animals = [
         ],
         emoji: "🦛",
     },
-    {
-        name: "Gazelle",
-        species: "Antilopinae",
-        habitat: "Grasslands",
-        lifespan: 12,
-        diet: "Herbivore",
-        funFacts: [
-            "Gazelles are known for their incredible speed and agility.",
-            "They have a keen sense of hearing and eyes positioned to detect predators.",
-            "Gazelles are social animals and often form large herds for protection.",
-        ],
-        emoji: "🦌",
-    },
 ];
 
 export default animals;
